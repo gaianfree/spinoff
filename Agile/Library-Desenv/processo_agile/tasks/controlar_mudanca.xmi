@@ -7,13 +7,21 @@
 &lt;/p>&#xD;
 &lt;p>&#xD;
     Para isso o Desenvolvedor deve criar uma requisição de mudanças, seguindo as&amp;nbsp;orientações contidas no próprio&#xD;
-    template da&amp;nbsp;&lt;strong>&lt;a class=&quot;elementLink&quot; href=&quot;./../../processo_agile/workproducts/rm_5A6327CB.html&quot;&#xD;
-    guid=&quot;_I3MuAGcTEeelx-d4QgVk5A&quot;>Requisição de Mudanças&lt;/a>&lt;/strong>.&#xD;
+    template da&amp;nbsp;&lt;strong>&lt;a class=&quot;elementLink&quot; href=&quot;./../../processo_agile/workproducts/rm_5A6327CB.html&quot; guid=&quot;_I3MuAGcTEeelx-d4QgVk5A&quot;>Requisição de Mudanças&lt;/a>&lt;/strong>.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    No terceiro tópico desse arquivo (Análise de Impacto), é necessário&amp;nbsp;descrever com mais detalhes os custos, prazos,&#xD;
+    esforços e entre outros. Para tal, o time de desenvolvimento deve se reunir para definir quais mudanças se encaixam na&#xD;
+    categorização de prioridades, constituída por 3 categorias: Padrão (baixo risco e compreensão), Normal (certo risco de&#xD;
+    incerteza) e Emergêncial (mudança obrigatório para a continuidade do projeto). Uma vez acordado entre todos quais tipos&#xD;
+    de mudanças se encaixam em cada categoria, deve ser informada a categoria desta no arquivo de&amp;nbsp;&lt;strong>&lt;a class=&quot;elementLink&quot; href=&quot;./../../processo_agile/workproducts/rm_5A6327CB.html&quot; guid=&quot;_I3MuAGcTEeelx-d4QgVk5A&quot;>Requisição de Mudanças&lt;/a>.&lt;/strong>&#xD;
 &lt;/p></sectionDescription>
   </sections>
   <sections xmi:id="_3TMPQGcTEeelx-d4QgVk5A" name="Atualizar a Planilha de Planejamento e Controle" guid="_3TMPQGcTEeelx-d4QgVk5A">
     <sectionDescription>Caso alguma atividade nova tenha sido criada devido a mudança, esta deve ser adicionada na &lt;strong>planilha de planejamento&#xD;
-e controle do projeto&lt;/strong>.</sectionDescription>
+e controle do projeto&lt;/strong>. Além disso, deve ser criado uma nova tarefa no quadro do time de desenvolvimento, seguindo&#xD;
+o mesmo fluxo que uma nova funcionalidade teria. Isso faz com que o time tenha um acompanhamento melhor do status atual da&#xD;
+solicitação da mudança.</sectionDescription>
   </sections>
   <sections xmi:id="_mg7L8GcTEeelx-d4QgVk5A" name="Realizar a mudança" guid="_mg7L8GcTEeelx-d4QgVk5A">
     <sectionDescription>Depois de analisados os impactos e este aprovado pelo Owner o Desenvolvedor executa a mudança.</sectionDescription>

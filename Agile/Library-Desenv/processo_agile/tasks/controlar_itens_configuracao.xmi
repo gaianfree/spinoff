@@ -12,15 +12,25 @@
 &lt;/p>&#xD;
 &lt;p>&#xD;
     Todos os ICs devem ser nomeados conforme &lt;a class=&quot;elementLink&quot;&#xD;
-    href=&quot;./../../processo_agile/guidances/guidelines/guia_-_polticas_de_gc_10E280CE.html&quot;&#xD;
-    guid=&quot;_kivfQKdcEeq1ProniyDKWg&quot;>Guia - Politicas de GC&lt;/a>&amp;nbsp;e armazenados na estrutura do projeto conforme o &lt;a&#xD;
-    class=&quot;elementLink&quot; href=&quot;./../../processo_agile/guidances/examples/guia_mapeamento_produtos_processo_56B1D075.html&quot;&#xD;
+    href=&quot;./../../processo_agile/guidances/guidelines/guia_politicas_gc_10E280CE.html&quot; guid=&quot;_kivfQKdcEeq1ProniyDKWg&quot;>Guia&#xD;
+    - Politicas de GC&lt;/a>&amp;nbsp;e armazenados na estrutura do projeto conforme o &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../processo_agile/guidances/examples/guia_mapeamento_produtos_processo_56B1D075.html&quot;&#xD;
     guid=&quot;_SLKUEGcQEeelx-d4QgVk5A&quot;>Guia - Mapeamento de Produtos por Processo&lt;/a>.&#xD;
 &lt;/p>&#xD;
 &lt;p>&#xD;
     Os artefatos não previstos pelo processo,&amp;nbsp;porém necessários ao time, sejam eles fontes de requisitos, manuais,&#xD;
     livros, novos templates específicos para o projeto, etc. devem ser armazenados na pasta &quot;&lt;strong>Ambiente&lt;/strong>&quot; e&#xD;
     não necessitam seguir os padrões de nomeação definidos no &lt;strong>Guia - Políticas de GC&lt;/strong>.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Independente da escolha de ferramenta para versionamento de código, deve ser criado um arquivo chamado 'README.md&quot; na&#xD;
+    raiz do projeto, utilizando o projeto &lt;a&#xD;
+    href=&quot;https://github.com/kefranabg/readme-md-generator&quot;>https://github.com/kefranabg/readme-md-generator&lt;/a>. Uma vez&#xD;
+    seguida a documentação contida neste link, deve ser criada uma nova seção no arquivo, entre as de &quot;Usage&quot; e &quot;Run&#xD;
+    tests&quot;,&amp;nbsp;chamada de &quot;Configuration Items Descriptions&quot;. Nessa seção, devem ser listados todos os itens de&#xD;
+    configuração, seguidos de uma breve descrição do papel daquele item no sistema, sem se importar com termos técnicos.&#xD;
+    Isso fará com que qualquer um que leia o arquivo, consiga entender o seu propósito. Além disso, esse arquivo já conterá&#xD;
+    um tópico para especificar a versão.&#xD;
 &lt;/p></sectionDescription>
   </sections>
   <sections xmi:id="_tt214KdaEeq1ProniyDKWg" name="Controlar Configuração Base" guid="_tt214KdaEeq1ProniyDKWg">
@@ -31,8 +41,8 @@
 &lt;/p>&#xD;
 &lt;p>&#xD;
     Todas as CBs devem ser nomeadas conforme &lt;a class=&quot;elementLink&quot;&#xD;
-    href=&quot;./../../processo_agile/guidances/guidelines/guia_-_polticas_de_gc_10E280CE.html&quot;&#xD;
-    guid=&quot;_kivfQKdcEeq1ProniyDKWg&quot;>Guia - Politicas de GC&lt;/a>.&#xD;
+    href=&quot;./../../processo_agile/guidances/guidelines/guia_politicas_gc_10E280CE.html&quot; guid=&quot;_kivfQKdcEeq1ProniyDKWg&quot;>Guia&#xD;
+    - Politicas de GC&lt;/a>.&#xD;
 &lt;/p>&#xD;
 &lt;p>&#xD;
     Sempre que uma CB&amp;nbsp;for entregue deve ser registrado o número da &quot;Revision&quot; (versão)&amp;nbsp;correspondente da&#xD;
@@ -41,7 +51,28 @@
     Planejamento e Controle do Projeto&lt;/a>, na aba Controle de Entregas.&#xD;
 &lt;/p>&#xD;
 &lt;p>&#xD;
-    Isso é importante para&amp;nbsp;garantir&amp;nbsp;a possibilidade de recuperação da CB entregue, se necessário.&lt;br />&#xD;
+    Isso é importante para&amp;nbsp;garantir&amp;nbsp;a possibilidade de recuperação da CB entregue, se necessário.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Independente da ferramenta de versionamento de código escolhida, seja o git ou o svn, devem ser configuradas regras e&#xD;
+    permissões de acessos a branches e atualizações do repositório. Para configurar com o github, seguir a documentação do&#xD;
+    link &lt;a&#xD;
+    href=&quot;https://docs.github.com/pt/repositories/configuring-branches-and-merges-in-your-repository/managing-protected-branches/about-protected-branches&quot;>&#xD;
+    https://docs.github.com/pt/repositories/configuring-branches-and-merges-in-your-repository/managing-protected-branches/about-protected-branches&lt;/a>.&#xD;
+    Já para o svn, deve ser criado um arquivo chamado &quot;authz&quot; na raiz do projeto. Nele, devem ser especificadas permissões&#xD;
+    de leitura e escrita, de acordo com o exemplo abaixo:&lt;br />&#xD;
+    &lt;br />&#xD;
+    [/branches/nome-da-branch]&lt;br />&#xD;
+    usuario1 = rw // tem leitura e escrita&lt;br />&#xD;
+    usuario2 = r // somente leitura&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Além disso, a cada nova versão liberada do sistema, o time de desenvolvimento deve adicionar o número da&amp;nbsp;versão&#xD;
+    mais atual&amp;nbsp;no arquivo &quot;README.md&quot; e&amp;nbsp;gerar um arquivo de &quot;Release notes&quot;. Caso o time esteja usando o git, é&#xD;
+    possível ter uma geração&amp;nbsp;automatizada desse arquivo, através do link &lt;a&#xD;
+    href=&quot;https://docs.github.com/pt/repositories/releasing-projects-on-github/automatically-generated-release-notes&quot;>https://docs.github.com/pt/repositories/releasing-projects-on-github/automatically-generated-release-notes&lt;/a>.&#xD;
+    Agora, se o time estiver usando svn, seguir o template de &lt;a href=&quot;./resources/Template+-+Release+Notes.pdf&quot;&#xD;
+    target=&quot;_blank&quot;>Release Notes.pdf&lt;/a>.&amp;nbsp;&lt;br />&#xD;
 &lt;/p></sectionDescription>
   </sections>
 </org.eclipse.epf.uma:TaskDescription>
