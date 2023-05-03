@@ -24,13 +24,12 @@
 &lt;/p>&#xD;
 &lt;p>&#xD;
     Independente da escolha de ferramenta para versionamento de código, deve ser criado um arquivo chamado 'README.md&quot; na&#xD;
-    raiz do projeto, utilizando o projeto &lt;a&#xD;
-    href=&quot;https://github.com/kefranabg/readme-md-generator&quot;>https://github.com/kefranabg/readme-md-generator&lt;/a>. Uma vez&#xD;
-    seguida a documentação contida neste link, deve ser criada uma nova seção no arquivo, entre as de &quot;Usage&quot; e &quot;Run&#xD;
-    tests&quot;,&amp;nbsp;chamada de &quot;Configuration Items Descriptions&quot;. Nessa seção, devem ser listados todos os itens de&#xD;
-    configuração, seguidos de uma breve descrição do papel daquele item no sistema, sem se importar com termos técnicos.&#xD;
-    Isso fará com que qualquer um que leia o arquivo, consiga entender o seu propósito. Além disso, esse arquivo já conterá&#xD;
-    um tópico para especificar a versão.&#xD;
+    raiz do projeto, utilizando o projeto &lt;a href=&quot;https://github.com/kefranabg/readme-md-generator&quot;&#xD;
+    target=&quot;_blank&quot;>https://github.com/kefranabg/readme-md-generator&lt;/a>. Uma vez seguida a documentação contida neste&#xD;
+    link, deve ser criada uma nova seção no arquivo, entre as de &quot;Usage&quot; e &quot;Run tests&quot;,&amp;nbsp;chamada de &quot;Configuration&#xD;
+    Items Descriptions&quot;. Nessa seção, devem ser listados todos os itens de configuração, seguidos de uma breve descrição do&#xD;
+    papel daquele item no sistema, sem se importar com termos técnicos. Isso fará com que qualquer um que leia o arquivo,&#xD;
+    consiga entender o seu propósito. Além disso, esse arquivo já conterá um tópico para especificar a versão.&#xD;
 &lt;/p></sectionDescription>
   </sections>
   <sections xmi:id="_tt214KdaEeq1ProniyDKWg" name="Controlar Configuração Base" guid="_tt214KdaEeq1ProniyDKWg">
@@ -57,8 +56,8 @@
     Independente da ferramenta de versionamento de código escolhida, seja o git ou o svn, devem ser configuradas regras e&#xD;
     permissões de acessos a branches e atualizações do repositório. Para configurar com o github, seguir a documentação do&#xD;
     link &lt;a&#xD;
-    href=&quot;https://docs.github.com/pt/repositories/configuring-branches-and-merges-in-your-repository/managing-protected-branches/about-protected-branches&quot;>&#xD;
-    https://docs.github.com/pt/repositories/configuring-branches-and-merges-in-your-repository/managing-protected-branches/about-protected-branches&lt;/a>.&#xD;
+    href=&quot;https://docs.github.com/pt/repositories/configuring-branches-and-merges-in-your-repository/managing-protected-branches/about-protected-branches&quot;&#xD;
+     target=&quot;_blank&quot;>https://docs.github.com/pt/repositories/configuring-branches-and-merges-in-your-repository/managing-protected-branches/about-protected-branches&lt;/a>.&#xD;
     Já para o svn, deve ser criado um arquivo chamado &quot;authz&quot; na raiz do projeto. Nele, devem ser especificadas permissões&#xD;
     de leitura e escrita, de acordo com o exemplo abaixo:&lt;br />&#xD;
     &lt;br />&#xD;
@@ -70,7 +69,8 @@
     Além disso, a cada nova versão liberada do sistema, o time de desenvolvimento deve adicionar o número da&amp;nbsp;versão&#xD;
     mais atual&amp;nbsp;no arquivo &quot;README.md&quot; e&amp;nbsp;gerar um arquivo de &quot;Release notes&quot;. Caso o time esteja usando o git, é&#xD;
     possível ter uma geração&amp;nbsp;automatizada desse arquivo, através do link &lt;a&#xD;
-    href=&quot;https://docs.github.com/pt/repositories/releasing-projects-on-github/automatically-generated-release-notes&quot;>https://docs.github.com/pt/repositories/releasing-projects-on-github/automatically-generated-release-notes&lt;/a>.&#xD;
+    href=&quot;https://docs.github.com/pt/repositories/releasing-projects-on-github/automatically-generated-release-notes&quot;&#xD;
+    target=&quot;_blank&quot;>https://docs.github.com/pt/repositories/releasing-projects-on-github/automatically-generated-release-notes&lt;/a>.&#xD;
     Agora, se o time estiver usando svn, seguir o template de &lt;a href=&quot;./resources/Template+-+Release+Notes.pdf&quot;&#xD;
     target=&quot;_blank&quot;>Release Notes.pdf&lt;/a>.&amp;nbsp;&lt;br />&#xD;
 &lt;/p></sectionDescription>

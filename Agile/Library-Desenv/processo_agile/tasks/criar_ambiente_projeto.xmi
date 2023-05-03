@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-X2Mekdr5MSsDxN-Td-6wWw" name="criar_ambiente_projeto,_QMPT0GcREeelx-d4QgVk5A" guid="-X2Mekdr5MSsDxN-Td-6wWw" changeDate="2020-07-14T15:35:43.823-0300">
-  <sections xmi:id="_aOXgEGcREeelx-d4QgVk5A" name="Instalar o TortoiseSVN" guid="_aOXgEGcREeelx-d4QgVk5A">
+  <sections xmi:id="_aOXgEGcREeelx-d4QgVk5A" name="Escolher e configurar ferramenta de versionamento de código" guid="_aOXgEGcREeelx-d4QgVk5A">
     <sectionDescription>No caso da máquina do&amp;nbsp;&lt;a class=&quot;elementLink&quot; href=&quot;./../../processo_agile/roles/desenvolvedor_137361E8.html&quot;&#xD;
 guid=&quot;_jg34QE0dEeeZC78fRt21fQ&quot;>Desenvolvedor&lt;/a> não ter a ferramenta de controle de versão, este deve instalá-la seguindo&#xD;
 as orientações do site para a ferramenta &lt;a class=&quot;elementLink&quot;&#xD;
 href=&quot;./../../processo_agile/guidances/toolmentors/tortoisesvn_740A0FCA.html&quot;&#xD;
-guid=&quot;_cZf1IKc5EeqVVcbyjZLpiA&quot;>TortoiseSVN&lt;/a>.</sectionDescription>
+guid=&quot;_cZf1IKc5EeqVVcbyjZLpiA&quot;>TortoiseSVN&lt;/a>&amp;nbsp;ou &lt;a class=&quot;elementLink&quot;&#xD;
+href=&quot;./../../processo_agile/guidances/toolmentors/git_AA52F378.html&quot; guid=&quot;_3tnwQOnEEe2ps_1KI6FM5w&quot;>Git&lt;/a></sectionDescription>
   </sections>
   <sections xmi:id="_l_3YMGcREeelx-d4QgVk5A" name="Criar o repositório do projeto" guid="_l_3YMGcREeelx-d4QgVk5A">
     <sectionDescription>&lt;p>&#xD;
@@ -14,15 +15,15 @@ guid=&quot;_cZf1IKc5EeqVVcbyjZLpiA&quot;>TortoiseSVN&lt;/a>.</sectionDescription
     href=&quot;./../../processo_agile/workproducts/estrutura_projeto_ED6A8C8B.html&quot; guid=&quot;_uYnrgGcUEee6Z8sC_73hQw&quot;>Estrutura do&#xD;
     Projeto no SVN&lt;/a>&amp;nbsp;e adicioná-la no repositório usando o TortoiseSVN, conforme&amp;nbsp;&lt;a class=&quot;elementLink&quot;&#xD;
     href=&quot;./../../processo_agile/guidances/examples/guia_tortoise_4FE8C49B.html&quot; guid=&quot;_SLKUEmcQEeelx-d4QgVk5A&quot;>Guia -&#xD;
-    TortoiseSVN&lt;/a>. Em seguida comunicar os demais desenvolvedores que a estrutura do projeto foi criada e que podem fazer&#xD;
-    o checkout (vide item 2 abaixo).&#xD;
+    TortoiseSVN&lt;/a>. Caso o time tenha escolhido usar o git ao invés do SVN, um dos desenvolvedores deve seguir o &lt;a&#xD;
+    class=&quot;elementLink&quot; href=&quot;./../../processo_agile/guidances/examples/guia_git_ADC17CBC.html&quot;&#xD;
+    guid=&quot;_WfR0sOnHEe2ps_1KI6FM5w&quot;>Guia - Git&lt;/a>.&amp;nbsp;Em seguida comunicar os demais desenvolvedores que a estrutura do&#xD;
+    projeto foi criada e que podem fazer o checkout (vide item 2 abaixo).&#xD;
 &lt;/p>&#xD;
 &lt;p>&#xD;
     2. No caso do repositório já existir o &lt;a class=&quot;elementLink&quot;&#xD;
     href=&quot;./../../processo_agile/roles/desenvolvedor_137361E8.html&quot; guid=&quot;_jg34QE0dEeeZC78fRt21fQ&quot;>Desenvolvedor&lt;/a> deve&#xD;
-    fazer checkout do repositório do projeto usando o mesmo&amp;nbsp;&lt;strong>&lt;a class=&quot;elementLink&quot;&#xD;
-    href=&quot;./../../processo_agile/guidances/examples/guia_tortoise_4FE8C49B.html&quot; guid=&quot;_SLKUEmcQEeelx-d4QgVk5A&quot;>Guia -&#xD;
-    TortoiseSVN&lt;/a>&lt;/strong>.&#xD;
+    fazer checkout do repositório do projeto usando o mesmo guia utilizado no item acima.&#xD;
 &lt;/p>&#xD;
 &lt;p>&#xD;
     O controle desses artefatos é especificado na tarefa &lt;a class=&quot;elementLink&quot;&#xD;

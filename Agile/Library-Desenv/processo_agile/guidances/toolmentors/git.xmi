@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-fVRCXcqVlffzc2c6Vt64Fg" name="new_toolmentor,_3tnwQOnEEe2ps_1KI6FM5w" guid="-fVRCXcqVlffzc2c6Vt64Fg" changeDate="2023-05-03T12:14:03.656-0300">
+  <mainDescription>&lt;p>&#xD;
+    O Git é um sistema de controle de versão distribuído gratuito e de código aberto. Permite ramificação local de baixo&#xD;
+    custo computacional, áreas de preparação pre-commit e vários fluxos de trabalho.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Faça download clicando &lt;a href=&quot;https://git-scm.com/downloads&quot; target=&quot;_blank&quot;>&lt;u>&lt;font&#xD;
+    color=&quot;#0066cc&quot;>aqui&lt;/font>&lt;/u>&lt;/a>.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

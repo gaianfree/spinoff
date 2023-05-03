@@ -80,6 +80,9 @@
     <resourceDescriptors xmi:id="_yCD24OhREeqpRpaT9ayfbA" id="-B8hFfug1nzF0gQJA1Yz7ng" uri="guidances/templates/template_caso_de_desenvolvimento.xmi"/>
     <resourceDescriptors xmi:id="_nPFDMOhWEeqpRpaT9ayfbA" id="-dsncKOA_4CFeRD_w4ZIsng" uri="guidances/templates/template_historia_de_usuario.xmi"/>
     <resourceDescriptors xmi:id="_hLCVMOj1Ee2hBolVB8pExQ" id="-ErFf4Hh-6HZCwRlrkytLDw" uri="guidances/templates/template_release_notes.xmi"/>
+    <resourceDescriptors xmi:id="_OX5IwOnFEe2ps_1KI6FM5w" id="-fVRCXcqVlffzc2c6Vt64Fg" uri="guidances/toolmentors/git.xmi"/>
+    <resourceDescriptors xmi:id="_euza4OnHEe2ps_1KI6FM5w" id="-W6HsTDVmj2r5XiOjlEjwlA" uri="guidances/examples/guia_git.xmi"/>
+    <resourceDescriptors xmi:id="_hSu6wenIEe2ps_1KI6FM5w" id="-hxd0-RowaLSG6rUOzS67Kw" uri="guidances/templates/template_estrutura_projeto_git.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:MethodPlugin xmi:id="_p8a8ME0ZEeeZC78fRt21fQ" name="processo_agile" guid="_p8a8ME0ZEeeZC78fRt21fQ" presentationName="Processo Agil ADS" briefDescription="Processo customizado para o curso de ADS, baseado em práticas de métodos ágeis." authors="Edson Murakami" changeDate="2017-06-09T10:45:57.957-0300" version="1.0">
     <methodElementProperty xmi:id="_p9ZzoE0ZEeeZC78fRt21fQ" name="plugin_synFree" value="true"/>
@@ -289,7 +292,7 @@
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_R5NWoE0gEeeZC78fRt21fQ" name="gestao_configuracao" guid="_R5NWoE0gEeeZC78fRt21fQ" presentationName="Gestão de Configuração e Mudanças" briefDescription="Disciplina de Gestão de Configuração e Mudanças, responsável pela organização e integridade dos produtos de trabalho produzidos ao longo do desenvolvimento e pelo controle das mudanças.">
           <methodElementProperty xmi:id="_R5NWoU0gEeeZC78fRt21fQ" name="pkg_loadCheck" value="true"/>
           <methodElementProperty xmi:id="_oGpCIE0gEeeZC78fRt21fQ" name="me_edited" value="true"/>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_NHZfQGcQEeelx-d4QgVk5A" name="controlar_itens_configuracao" guid="_NHZfQGcQEeelx-d4QgVk5A" presentationName="Controlar Itens de Configuração (IC)" briefDescription="Itens de configuração são todos os artefatos produzidos durante o projeto que devem compor uma configuração base, portanto devem ser controladas suas versões. Cada item de configuração deve ter uma breve descrição feita no README do projeto, sobre seu papel no sistema. Essa descrição deve ser feita sem se importar com termos técnicos, para que qualquer pessoa que leia possa entender." guidelines="_kivfQKdcEeq1ProniyDKWg" examples="_SLKUEGcQEeelx-d4QgVk5A _SLKUEmcQEeelx-d4QgVk5A" performedBy="_jg34QE0dEeeZC78fRt21fQ" output="_U0xmcGZnEee1huV63HakZg" toolMentors="_cZf1IKc5EeqVVcbyjZLpiA">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_NHZfQGcQEeelx-d4QgVk5A" name="controlar_itens_configuracao" guid="_NHZfQGcQEeelx-d4QgVk5A" presentationName="Controlar Itens de Configuração (IC)" briefDescription="Itens de configuração são todos os artefatos produzidos durante o projeto que devem compor uma configuração base, portanto devem ser controladas suas versões. Cada item de configuração deve ter uma breve descrição feita no README do projeto, sobre seu papel no sistema. Essa descrição deve ser feita sem se importar com termos técnicos, para que qualquer pessoa que leia possa entender." guidelines="_kivfQKdcEeq1ProniyDKWg" examples="_SLKUEGcQEeelx-d4QgVk5A _SLKUEmcQEeelx-d4QgVk5A _WfR0sOnHEe2ps_1KI6FM5w" performedBy="_jg34QE0dEeeZC78fRt21fQ" output="_U0xmcGZnEee1huV63HakZg" toolMentors="_cZf1IKc5EeqVVcbyjZLpiA _3tnwQOnEEe2ps_1KI6FM5w">
             <methodElementProperty xmi:id="_NTKqYGcQEeelx-d4QgVk5A" name="me_edited" value="true"/>
             <presentation xmi:id="-6-unkCM7z8sv9ExA0HgTVw" href="uma://-6-unkCM7z8sv9ExA0HgTVw#-6-unkCM7z8sv9ExA0HgTVw"/>
           </contentElements>
@@ -301,7 +304,7 @@
             <methodElementProperty xmi:id="_SL0bYmcQEeelx-d4QgVk5A" name="me_edited" value="true"/>
             <presentation xmi:id="-FbqTNaA80SGSTtEJFLQ9Yw" href="uma://-FbqTNaA80SGSTtEJFLQ9Yw#-FbqTNaA80SGSTtEJFLQ9Yw"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_QMPT0GcREeelx-d4QgVk5A" name="criar_ambiente_projeto" guid="_QMPT0GcREeelx-d4QgVk5A" presentationName="Criar Ambiente do Projeto" briefDescription="Esta tarefa tem o propósito de criar uma estrutura de arquivos padronizada e sob controle de versão, onde os artefatos de cada disciplina possam ser armazenados e controlados." guidelines="_kivfQKdcEeq1ProniyDKWg" examples="_SLKUEmcQEeelx-d4QgVk5A _SLKUEGcQEeelx-d4QgVk5A" performedBy="_jg34QE0dEeeZC78fRt21fQ" mandatoryInput="_4myakGcSEeelx-d4QgVk5A" output="_uYnrgGcUEee6Z8sC_73hQw" toolMentors="_cZf1IKc5EeqVVcbyjZLpiA">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_QMPT0GcREeelx-d4QgVk5A" name="criar_ambiente_projeto" guid="_QMPT0GcREeelx-d4QgVk5A" presentationName="Criar Ambiente do Projeto" briefDescription="Esta tarefa tem o propósito de criar uma estrutura de arquivos padronizada e sob controle de versão, onde os artefatos de cada disciplina possam ser armazenados e controlados." guidelines="_kivfQKdcEeq1ProniyDKWg" examples="_SLKUEmcQEeelx-d4QgVk5A _SLKUEGcQEeelx-d4QgVk5A _WfR0sOnHEe2ps_1KI6FM5w" performedBy="_jg34QE0dEeeZC78fRt21fQ" mandatoryInput="_4myakGcSEeelx-d4QgVk5A" output="_uYnrgGcUEee6Z8sC_73hQw _LOUoYOnIEe2ps_1KI6FM5w" toolMentors="_cZf1IKc5EeqVVcbyjZLpiA _3tnwQOnEEe2ps_1KI6FM5w">
             <methodElementProperty xmi:id="_TYWDcGcREeelx-d4QgVk5A" name="me_edited" value="true"/>
             <presentation xmi:id="-X2Mekdr5MSsDxN-Td-6wWw" href="uma://-X2Mekdr5MSsDxN-Td-6wWw#-X2Mekdr5MSsDxN-Td-6wWw"/>
           </contentElements>
@@ -312,10 +315,10 @@
             <methodElementProperty xmi:id="_UYdxwGcTEeelx-d4QgVk5A" name="me_edited" value="true"/>
             <presentation xmi:id="-_qfPyXeToXlV9yJk8pfD1g" href="uma://-_qfPyXeToXlV9yJk8pfD1g#-_qfPyXeToXlV9yJk8pfD1g"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_uYnrgGcUEee6Z8sC_73hQw" name="estrutura_projeto" guid="_uYnrgGcUEee6Z8sC_73hQw" presentationName="Estrutura do Projeto no SVN" briefDescription="Estrutura do Projeto no SVN" templates="_nQzDcGf0EeeJroYH56TLOQ">
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_uYnrgGcUEee6Z8sC_73hQw" name="estrutura_projeto_svn" guid="_uYnrgGcUEee6Z8sC_73hQw" presentationName="Estrutura do Projeto no SVN" briefDescription="Estrutura do Projeto no SVN" templates="_nQzDcGf0EeeJroYH56TLOQ">
             <methodElementProperty xmi:id="_z_bjAGcUEee6Z8sC_73hQw" name="me_edited" value="true"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_nQzDcGf0EeeJroYH56TLOQ" name="template_estrutura_projeto" guid="_nQzDcGf0EeeJroYH56TLOQ" presentationName="Template da Estrutura de Projetos">
+          <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_nQzDcGf0EeeJroYH56TLOQ" name="template_estrutura_projeto_svn" guid="_nQzDcGf0EeeJroYH56TLOQ" presentationName="Template da Estrutura de Projetos com SVN">
             <methodElementProperty xmi:id="_s0Pd4Gf0EeeJroYH56TLOQ" name="me_edited" value="true"/>
             <presentation xmi:id="-2vq6qBNwBWRiD1Mf0pI8tg" href="uma://-2vq6qBNwBWRiD1Mf0pI8tg#-2vq6qBNwBWRiD1Mf0pI8tg"/>
           </contentElements>
@@ -334,6 +337,21 @@
           <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_UefxIOj1Ee2hBolVB8pExQ" name="template_release_notes" guid="_UefxIOj1Ee2hBolVB8pExQ" presentationName="Template Release Notes">
             <methodElementProperty xmi:id="_hK4kMOj1Ee2hBolVB8pExQ" name="me_edited" value="true"/>
             <presentation xmi:id="-ErFf4Hh-6HZCwRlrkytLDw" href="uma://-ErFf4Hh-6HZCwRlrkytLDw#-ErFf4Hh-6HZCwRlrkytLDw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_3tnwQOnEEe2ps_1KI6FM5w" name="git" guid="_3tnwQOnEEe2ps_1KI6FM5w" presentationName="Git" briefDescription="O Git é uma alternativa ao SVN, sendo também uma ferramenta de versionamento de código">
+            <methodElementProperty xmi:id="_OX03UOnFEe2ps_1KI6FM5w" name="me_edited" value="true"/>
+            <presentation xmi:id="-fVRCXcqVlffzc2c6Vt64Fg" href="uma://-fVRCXcqVlffzc2c6Vt64Fg#-fVRCXcqVlffzc2c6Vt64Fg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Example" xmi:id="_WfR0sOnHEe2ps_1KI6FM5w" name="guia_git" guid="_WfR0sOnHEe2ps_1KI6FM5w" presentationName="Guia - Git" briefDescription="Guia - Git">
+            <methodElementProperty xmi:id="_euuiYOnHEe2ps_1KI6FM5w" name="me_edited" value="true"/>
+            <presentation xmi:id="-W6HsTDVmj2r5XiOjlEjwlA" href="uma://-W6HsTDVmj2r5XiOjlEjwlA#-W6HsTDVmj2r5XiOjlEjwlA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_LOUoYOnIEe2ps_1KI6FM5w" name="estrutura_projeto_git" guid="_LOUoYOnIEe2ps_1KI6FM5w" presentationName="Estrutura do Projeto no Git" briefDescription="Estrutura do Projeto no Git" templates="_ZSixEOnIEe2ps_1KI6FM5w">
+            <methodElementProperty xmi:id="_R8288OnIEe2ps_1KI6FM5w" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_ZSixEOnIEe2ps_1KI6FM5w" name="template_estrutura_projeto_git" guid="_ZSixEOnIEe2ps_1KI6FM5w" presentationName="Template da Estrutura de Projetos com Git">
+            <methodElementProperty xmi:id="_cym-gOnIEe2ps_1KI6FM5w" name="me_edited" value="true"/>
+            <presentation xmi:id="-hxd0-RowaLSG6rUOzS67Kw" href="uma://-hxd0-RowaLSG6rUOzS67Kw#-hxd0-RowaLSG6rUOzS67Kw"/>
           </contentElements>
         </childPackages>
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_1wN08GY0Eee1huV63HakZg" name="desenvolvimento" guid="_1wN08GY0Eee1huV63HakZg" presentationName="Desenvolvimento" briefDescription="Desenvolvimento">
