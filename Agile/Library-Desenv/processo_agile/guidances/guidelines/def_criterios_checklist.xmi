@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-lbtB_s_eKOxS_LckR47JXA" name="new_guideline,_ekS9gO0IEe28ub4xPlWhiw" guid="-lbtB_s_eKOxS_LckR47JXA" changeDate="2023-05-07T15:56:54.616-0300">
+  <mainDescription>&lt;p>&#xD;
+    Esse guia trata de como se&amp;nbsp;estabelecer critérios bem definidos para a avaliação do processo de desenvolvimento. É&#xD;
+    através desse guia tambem, que sera definido de que forma esses critérios deverão aparecer no documento&#xD;
+    checklist_projeto.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>
