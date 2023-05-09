@@ -1,24 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-X2Mekdr5MSsDxN-Td-6wWw" name="criar_ambiente_projeto,_QMPT0GcREeelx-d4QgVk5A" guid="-X2Mekdr5MSsDxN-Td-6wWw" changeDate="2020-07-14T15:35:43.823-0300">
-  <sections xmi:id="_aOXgEGcREeelx-d4QgVk5A" name="Escolher e configurar ferramenta de versionamento de código" guid="_aOXgEGcREeelx-d4QgVk5A">
-    <sectionDescription>No caso da máquina do&amp;nbsp;&lt;a class=&quot;elementLink&quot; href=&quot;./../../processo_agile/roles/desenvolvedor_137361E8.html&quot;&#xD;
-guid=&quot;_jg34QE0dEeeZC78fRt21fQ&quot;>Desenvolvedor&lt;/a> não ter a ferramenta de controle de versão, este deve instalá-la seguindo&#xD;
-as orientações do site para a ferramenta &lt;a class=&quot;elementLink&quot;&#xD;
-href=&quot;./../../processo_agile/guidances/toolmentors/tortoisesvn_740A0FCA.html&quot;&#xD;
-guid=&quot;_cZf1IKc5EeqVVcbyjZLpiA&quot;>TortoiseSVN&lt;/a>&amp;nbsp;ou &lt;a class=&quot;elementLink&quot;&#xD;
-href=&quot;./../../processo_agile/guidances/toolmentors/git_AA52F378.html&quot; guid=&quot;_3tnwQOnEEe2ps_1KI6FM5w&quot;>Git&lt;/a></sectionDescription>
+  <sections xmi:id="_aOXgEGcREeelx-d4QgVk5A" name="Configurar ferramenta de versionamento de código" guid="_aOXgEGcREeelx-d4QgVk5A">
+    <sectionDescription>&lt;p>&#xD;
+    No caso da máquina do&amp;nbsp;&lt;a&#xD;
+    id=&quot;A_-_-_C:/Users/Usuario/Desktop/ifsp/spinoff/Agile/Library-Desenv/processo_agile/roles/desenvolvedor_137361E8.html:.:.:A_-_-_C:/Users/Usuario/Desktop/ifsp/spinoff/Agile/Library-Desenv/processo_agile/roles/desenvolvedor_137361E8.html:.:.:&quot;&#xD;
+     class=&quot;elementLink&quot; href=&quot;./../../processo_agile/roles/desenvolvedor_137361E8.html&quot;&#xD;
+    guid=&quot;_jg34QE0dEeeZC78fRt21fQ&quot;>Desenvolvedor&lt;/a> não ter a ferramenta de controle de versão, este deve instalá-la&#xD;
+    seguindo as orientações do site para a ferramenta &lt;a&#xD;
+    id=&quot;A_-_-_C:/Users/Usuario/Desktop/ifsp/spinoff/Agile/Library-Desenv/processo_agile/guidances/toolmentors/tortoisesvn_740A0FCA.html:.:.:A_-_-_C:/Users/Usuario/Desktop/ifsp/spinoff/Agile/Library-Desenv/processo_agile/guidances/toolmentors/tortoisesvn_740A0FCA.html:.:.:&quot;&#xD;
+     class=&quot;elementLink&quot; href=&quot;./../../processo_agile/guidances/toolmentors/tortoisesvn_740A0FCA.html&quot;&#xD;
+    guid=&quot;_cZf1IKc5EeqVVcbyjZLpiA&quot;>TortoiseSVN&lt;/a>. De acordo com&amp;nbsp;o&amp;nbsp;&lt;a&#xD;
+    id=&quot;A_-_-_C:/Users/Usuario/Desktop/ifsp/spinoff/Agile/Library-Desenv/processo_agile/guidances/templates/template_estrutura_projeto_svn_EF14F1A6.html:.:.:A_-_-_C:/Users/Usuario/Desktop/ifsp/spinoff/Agile/Library-Desenv/processo_agile/guidances/templates/template_estrutura_projeto_svn_EF14F1A6.html:.:.:&quot;&#xD;
+     class=&quot;elementLink&quot; href=&quot;./../../processo_agile/guidances/templates/template_estrutura_projeto_svn_EF14F1A6.html&quot;&#xD;
+    guid=&quot;_nQzDcGf0EeeJroYH56TLOQ&quot;>Template da Estrutura de Projetos com SVN&lt;/a>, o&amp;nbsp;&lt;a&#xD;
+    id=&quot;A_-_-_C:/Users/Usuario/Desktop/ifsp/spinoff/Agile/Library-Desenv/processo_agile/roles/time_desenvolvimento_837780B8.html:.:.:A_-_-_C:/Users/Usuario/Desktop/ifsp/spinoff/Agile/Library-Desenv/processo_agile/roles/time_desenvolvimento_837780B8.html:.:.:&quot;&#xD;
+     class=&quot;elementLink&quot; href=&quot;./../../processo_agile/roles/time_desenvolvimento_837780B8.html&quot;&#xD;
+    guid=&quot;_VUDXwE0eEeeZC78fRt21fQ&quot;>Time de Desenvolvimento&lt;/a>&amp;nbsp;pode escolher&amp;nbsp;utilizar o&amp;nbsp;&lt;a&#xD;
+    id=&quot;A_-_-_C:/Users/Usuario/Desktop/ifsp/spinoff/Agile/Library-Desenv/processo_agile/guidances/toolmentors/git_AA52F378.html:.:.:A_-_-_C:/Users/Usuario/Desktop/ifsp/spinoff/Agile/Library-Desenv/processo_agile/guidances/toolmentors/git_AA52F378.html:.:.:&quot;&#xD;
+     class=&quot;elementLink&quot; href=&quot;./../../processo_agile/guidances/toolmentors/git_AA52F378.html&quot;&#xD;
+    guid=&quot;_3tnwQOnEEe2ps_1KI6FM5w&quot;>Git&lt;/a>&amp;nbsp;para a pasta de &quot;Projeto &amp;gt; Desenvolvimento &amp;gt; 3. Implementação&quot;. Neste&#xD;
+    caso, o &lt;a class=&quot;elementLink&quot; href=&quot;./../../processo_agile/roles/desenvolvedor_137361E8.html&quot;&#xD;
+    guid=&quot;_jg34QE0dEeeZC78fRt21fQ&quot;>Desenvolvedor&lt;/a>&amp;nbsp;deve seguir as orientações do site para a ferramenta &lt;a&#xD;
+    class=&quot;elementLink&quot; href=&quot;./../../processo_agile/guidances/toolmentors/git_AA52F378.html&quot;&#xD;
+    guid=&quot;_3tnwQOnEEe2ps_1KI6FM5w&quot;>Git&lt;/a>.&#xD;
+&lt;/p></sectionDescription>
   </sections>
   <sections xmi:id="_l_3YMGcREeelx-d4QgVk5A" name="Criar o repositório do projeto" guid="_l_3YMGcREeelx-d4QgVk5A">
     <sectionDescription>&lt;p>&#xD;
     1. No caso de projetos novos é provável que não tenha o repositório do projeto criado na ferramenta de controle de&#xD;
-    versão, neste caso um dos&amp;nbsp;desenvolvedores&amp;nbsp;deve criar a&amp;nbsp;&lt;a class=&quot;elementLink&quot;&#xD;
-    href=&quot;./../../processo_agile/workproducts/estrutura_projeto_ED6A8C8B.html&quot; guid=&quot;_uYnrgGcUEee6Z8sC_73hQw&quot;>Estrutura do&#xD;
-    Projeto no SVN&lt;/a>&amp;nbsp;e adicioná-la no repositório usando o TortoiseSVN, conforme&amp;nbsp;&lt;a class=&quot;elementLink&quot;&#xD;
-    href=&quot;./../../processo_agile/guidances/examples/guia_tortoise_4FE8C49B.html&quot; guid=&quot;_SLKUEmcQEeelx-d4QgVk5A&quot;>Guia -&#xD;
-    TortoiseSVN&lt;/a>. Caso o time tenha escolhido usar o git ao invés do SVN, um dos desenvolvedores deve seguir o &lt;a&#xD;
-    class=&quot;elementLink&quot; href=&quot;./../../processo_agile/guidances/examples/guia_git_ADC17CBC.html&quot;&#xD;
-    guid=&quot;_WfR0sOnHEe2ps_1KI6FM5w&quot;>Guia - Git&lt;/a>.&amp;nbsp;Em seguida comunicar os demais desenvolvedores que a estrutura do&#xD;
-    projeto foi criada e que podem fazer o checkout (vide item 2 abaixo).&#xD;
+    versão, neste caso um dos&amp;nbsp;desenvolvedores&amp;nbsp;deve criar a&amp;nbsp;&lt;a&#xD;
+    id=&quot;A_-_-_C:/Users/Usuario/Desktop/ifsp/spinoff/Agile/Library-Desenv/processo_agile/workproducts/estrutura_projeto_svn_ED6A8C8B.html:.:.:A_-_-_C:/Users/Usuario/Desktop/ifsp/spinoff/Agile/Library-Desenv/processo_agile/workproducts/estrutura_projeto_svn_ED6A8C8B.html:.:.:A_-_-_C:/Users/Usuario/Desktop/ifsp/spinoff/Agile/Library-Desenv/processo_agile/workproducts/estrutura_projeto_svn_ED6A8C8B.html:.:.:A_-_-_C:/Users/Usuario/Desktop/ifsp/spinoff/Agile/Library-Desenv/processo_agile/workproducts/estrutura_projeto_svn_ED6A8C8B.html:.:.:A_-_-_C:/Users/Usuario/Desktop/ifsp/spinoff/Agile/Library-Desenv/processo_agile/workproducts/estrutura_projeto_svn_ED6A8C8B.html:.:.:A_-_-_C:/Users/Usuario/Desktop/ifsp/spinoff/Agile/Library-Desenv/processo_agile/workproducts/estrutura_projeto_svn_ED6A8C8B.html:.:.:A_-_-_C:/Users/Usuario/Desktop/ifsp/spinoff/Agile/Library-Desenv/processo_agile/workproducts/estrutura_projeto_svn_ED6A8C8B.html:.:.:A_-_-_C:/Users/Usuario/Desktop/ifsp/spinoff/Agile/Library-Desenv/processo_agile/workproducts/estrutura_projeto_svn_ED6A8C8B.html:.:.:A_-_-_C:/Users/Usuario/Desktop/ifsp/spinoff/Agile/Library-Desenv/processo_agile/workproducts/estrutura_projeto_svn_ED6A8C8B.html:.:.:A_-_-_C:/Users/Usuario/Desktop/ifsp/spinoff/Agile/Library-Desenv/processo_agile/workproducts/estrutura_projeto_svn_ED6A8C8B.html:.:.:A_-_-_C:/Users/Usuario/Desktop/ifsp/spinoff/Agile/Library-Desenv/processo_agile/workproducts/estrutura_projeto_svn_ED6A8C8B.html:.:.:&quot;&#xD;
+     class=&quot;elementLink&quot; href=&quot;./../../processo_agile/workproducts/estrutura_projeto_svn_ED6A8C8B.html&quot;&#xD;
+    guid=&quot;_uYnrgGcUEee6Z8sC_73hQw&quot;>Estrutura do Projeto no SVN&lt;/a>&amp;nbsp;e adicioná-la no repositório usando o TortoiseSVN,&#xD;
+    conforme&amp;nbsp;&lt;a&#xD;
+    id=&quot;A_-_-_C:/Users/Usuario/Desktop/ifsp/spinoff/Agile/Library-Desenv/processo_agile/guidances/examples/guia_tortoise_4FE8C49B.html:.:.:A_-_-_C:/Users/Usuario/Desktop/ifsp/spinoff/Agile/Library-Desenv/processo_agile/guidances/examples/guia_tortoise_4FE8C49B.html:.:.:A_-_-_C:/Users/Usuario/Desktop/ifsp/spinoff/Agile/Library-Desenv/processo_agile/guidances/examples/guia_tortoise_4FE8C49B.html:.:.:A_-_-_C:/Users/Usuario/Desktop/ifsp/spinoff/Agile/Library-Desenv/processo_agile/guidances/examples/guia_tortoise_4FE8C49B.html:.:.:A_-_-_C:/Users/Usuario/Desktop/ifsp/spinoff/Agile/Library-Desenv/processo_agile/guidances/examples/guia_tortoise_4FE8C49B.html:.:.:A_-_-_C:/Users/Usuario/Desktop/ifsp/spinoff/Agile/Library-Desenv/processo_agile/guidances/examples/guia_tortoise_4FE8C49B.html:.:.:A_-_-_C:/Users/Usuario/Desktop/ifsp/spinoff/Agile/Library-Desenv/processo_agile/guidances/examples/guia_tortoise_4FE8C49B.html:.:.:A_-_-_C:/Users/Usuario/Desktop/ifsp/spinoff/Agile/Library-Desenv/processo_agile/guidances/examples/guia_tortoise_4FE8C49B.html:.:.:A_-_-_C:/Users/Usuario/Desktop/ifsp/spinoff/Agile/Library-Desenv/processo_agile/guidances/examples/guia_tortoise_4FE8C49B.html:.:.:A_-_-_C:/Users/Usuario/Desktop/ifsp/spinoff/Agile/Library-Desenv/processo_agile/guidances/examples/guia_tortoise_4FE8C49B.html:.:.:A_-_-_C:/Users/Usuario/Desktop/ifsp/spinoff/Agile/Library-Desenv/processo_agile/guidances/examples/guia_tortoise_4FE8C49B.html:.:.:&quot;&#xD;
+     class=&quot;elementLink&quot; href=&quot;./../../processo_agile/guidances/examples/guia_tortoise_4FE8C49B.html&quot;&#xD;
+    guid=&quot;_SLKUEmcQEeelx-d4QgVk5A&quot;>Guia - TortoiseSVN&lt;/a>. Caso o time também&amp;nbsp;tenha escolhido usar o git, um dos&#xD;
+    desenvolvedores deve seguir o &lt;a&#xD;
+    id=&quot;A_-_-_C:/Users/Usuario/Desktop/ifsp/spinoff/Agile/Library-Desenv/processo_agile/guidances/examples/guia_git_ADC17CBC.html:.:.:A_-_-_C:/Users/Usuario/Desktop/ifsp/spinoff/Agile/Library-Desenv/processo_agile/guidances/examples/guia_git_ADC17CBC.html:.:.:A_-_-_C:/Users/Usuario/Desktop/ifsp/spinoff/Agile/Library-Desenv/processo_agile/guidances/examples/guia_git_ADC17CBC.html:.:.:A_-_-_C:/Users/Usuario/Desktop/ifsp/spinoff/Agile/Library-Desenv/processo_agile/guidances/examples/guia_git_ADC17CBC.html:.:.:A_-_-_C:/Users/Usuario/Desktop/ifsp/spinoff/Agile/Library-Desenv/processo_agile/guidances/examples/guia_git_ADC17CBC.html:.:.:A_-_-_C:/Users/Usuario/Desktop/ifsp/spinoff/Agile/Library-Desenv/processo_agile/guidances/examples/guia_git_ADC17CBC.html:.:.:A_-_-_C:/Users/Usuario/Desktop/ifsp/spinoff/Agile/Library-Desenv/processo_agile/guidances/examples/guia_git_ADC17CBC.html:.:.:A_-_-_C:/Users/Usuario/Desktop/ifsp/spinoff/Agile/Library-Desenv/processo_agile/guidances/examples/guia_git_ADC17CBC.html:.:.:A_-_-_C:/Users/Usuario/Desktop/ifsp/spinoff/Agile/Library-Desenv/processo_agile/guidances/examples/guia_git_ADC17CBC.html:.:.:A_-_-_C:/Users/Usuario/Desktop/ifsp/spinoff/Agile/Library-Desenv/processo_agile/guidances/examples/guia_git_ADC17CBC.html:.:.:A_-_-_C:/Users/Usuario/Desktop/ifsp/spinoff/Agile/Library-Desenv/processo_agile/guidances/examples/guia_git_ADC17CBC.html:.:.:&quot;&#xD;
+     class=&quot;elementLink&quot; href=&quot;./../../processo_agile/guidances/examples/guia_git_ADC17CBC.html&quot;&#xD;
+    guid=&quot;_WfR0sOnHEe2ps_1KI6FM5w&quot;>Guia - Git&lt;/a>&amp;nbsp;para criar a &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../processo_agile/workproducts/estrutura_projeto_git_7B226E07.html&quot; guid=&quot;_LOUoYOnIEe2ps_1KI6FM5w&quot;>Estrutura&#xD;
+    do Projeto no Git&lt;/a>&amp;nbsp;dentro da pasta de &quot;Projeto &amp;gt; Desenvolvimento &amp;gt; 3. Implementação&quot;.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    1.1 É importante ressaltar que deve ser criado um arquivo na raiz do repositório com o código, seguindo o &lt;a&#xD;
+    class=&quot;elementLink&quot; href=&quot;./../../processo_agile/workproducts/template_readme_E3B1B4C2.html&quot;&#xD;
+    guid=&quot;_InQSkO51Ee2xivWxnJFDIw&quot;>Template README&lt;/a>.&#xD;
 &lt;/p>&#xD;
 &lt;p>&#xD;
     2. No caso do repositório já existir o &lt;a class=&quot;elementLink&quot;&#xD;
@@ -31,5 +59,17 @@ href=&quot;./../../processo_agile/guidances/toolmentors/git_AA52F378.html&quot; 
     Itens de Configuração (IC)&lt;/a>.&#xD;
 &lt;/p>&#xD;
 &lt;br /></sectionDescription>
+  </sections>
+  <sections xmi:id="_dmPqcO50Ee2xivWxnJFDIw" name="Configurar permissões do repositório" guid="_dmPqcO50Ee2xivWxnJFDIw">
+    <sectionDescription>Independente da ferramenta de versionamento de código escolhida, seja o svn com ou sem o git, devem ser configuradas regras&#xD;
+e permissões de acessos a branches e atualizações do repositório. Para configurar com o github, seguir a documentação do&#xD;
+seguinte &lt;a&#xD;
+href=&quot;https://docs.github.com/pt/repositories/configuring-branches-and-merges-in-your-repository/managing-protected-branches/about-protected-branches&quot;&#xD;
+ target=&quot;_blank&quot;>link&lt;/a>. Já para o svn solitariamente, deve ser criado um arquivo chamado &quot;authz&quot; na raiz do projeto.&#xD;
+Nele, devem ser especificadas permissões de leitura e escrita, de acordo com o exemplo abaixo:&lt;br />&#xD;
+&lt;br />&#xD;
+[/branches/nome-da-branch]&lt;br />&#xD;
+usuario1 = rw // tem leitura e escrita&lt;br />&#xD;
+usuario2 = r // somente leitura</sectionDescription>
   </sections>
 </org.eclipse.epf.uma:TaskDescription>

@@ -83,6 +83,7 @@
     <resourceDescriptors xmi:id="_OX5IwOnFEe2ps_1KI6FM5w" id="-fVRCXcqVlffzc2c6Vt64Fg" uri="guidances/toolmentors/git.xmi"/>
     <resourceDescriptors xmi:id="_euza4OnHEe2ps_1KI6FM5w" id="-W6HsTDVmj2r5XiOjlEjwlA" uri="guidances/examples/guia_git.xmi"/>
     <resourceDescriptors xmi:id="_hSu6wenIEe2ps_1KI6FM5w" id="-hxd0-RowaLSG6rUOzS67Kw" uri="guidances/templates/template_estrutura_projeto_git.xmi"/>
+    <resourceDescriptors xmi:id="_GdYjYO5yEe2xivWxnJFDIw" id="-b3Ltul_zXFS35b_AKJ3wKw" uri="guidances/templates/template_readme.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:MethodPlugin xmi:id="_p8a8ME0ZEeeZC78fRt21fQ" name="processo_agile" guid="_p8a8ME0ZEeeZC78fRt21fQ" presentationName="Processo Agil ADS" briefDescription="Processo customizado para o curso de ADS, baseado em práticas de métodos ágeis." authors="Edson Murakami" changeDate="2017-06-09T10:45:57.957-0300" version="1.0">
     <methodElementProperty xmi:id="_p9ZzoE0ZEeeZC78fRt21fQ" name="plugin_synFree" value="true"/>
@@ -352,6 +353,16 @@
           <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_ZSixEOnIEe2ps_1KI6FM5w" name="template_estrutura_projeto_git" guid="_ZSixEOnIEe2ps_1KI6FM5w" presentationName="Template da Estrutura de Projetos com Git">
             <methodElementProperty xmi:id="_cym-gOnIEe2ps_1KI6FM5w" name="me_edited" value="true"/>
             <presentation xmi:id="-hxd0-RowaLSG6rUOzS67Kw" href="uma://-hxd0-RowaLSG6rUOzS67Kw#-hxd0-RowaLSG6rUOzS67Kw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_7dbc8O5xEe2xivWxnJFDIw" name="template_readme" guid="_7dbc8O5xEe2xivWxnJFDIw" presentationName="Template README">
+            <methodElementProperty xmi:id="_GdOyYO5yEe2xivWxnJFDIw" name="me_edited" value="true"/>
+            <presentation xmi:id="-b3Ltul_zXFS35b_AKJ3wKw" href="uma://-b3Ltul_zXFS35b_AKJ3wKw#-b3Ltul_zXFS35b_AKJ3wKw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_InQSkO51Ee2xivWxnJFDIw" name="template_readme" guid="_InQSkO51Ee2xivWxnJFDIw" presentationName="Template README" briefDescription="Template README" templates="_7dbc8O5xEe2xivWxnJFDIw">
+            <methodElementProperty xmi:id="_QGpcUO51Ee2xivWxnJFDIw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_RnztEO51Ee2xivWxnJFDIw" name="template_release_notes" guid="_RnztEO51Ee2xivWxnJFDIw" presentationName="Template Release Notes" briefDescription="Template Release Notes" templates="_UefxIOj1Ee2hBolVB8pExQ">
+            <methodElementProperty xmi:id="_Soyo8O51Ee2xivWxnJFDIw" name="me_edited" value="true"/>
           </contentElements>
         </childPackages>
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_1wN08GY0Eee1huV63HakZg" name="desenvolvimento" guid="_1wN08GY0Eee1huV63HakZg" presentationName="Desenvolvimento" briefDescription="Desenvolvimento">

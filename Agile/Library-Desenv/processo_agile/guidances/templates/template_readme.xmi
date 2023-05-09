@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:GuidanceDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-b3Ltul_zXFS35b_AKJ3wKw" name="new_template,_7dbc8O5xEe2xivWxnJFDIw" guid="-b3Ltul_zXFS35b_AKJ3wKw">
+  <mainDescription>Esse template mostra como deve ser o arquivo README.md do projeto, localizado na raiz do repositório (na pasta de&#xD;
+implementação).</mainDescription>
+  <attachments>resources/Template README.pdf</attachments>
+</org.eclipse.epf.uma:GuidanceDescription>

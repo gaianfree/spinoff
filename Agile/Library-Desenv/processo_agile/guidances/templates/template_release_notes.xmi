@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <org.eclipse.epf.uma:GuidanceDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-ErFf4Hh-6HZCwRlrkytLDw" name="new_template,_UefxIOj1Ee2hBolVB8pExQ" guid="-ErFf4Hh-6HZCwRlrkytLDw" changeDate="2023-05-02T11:27:36.546-0300">
-  <mainDescription>Esse template serve, principalmente, para times utilizando o svn. Caso esteja utilizando o git, ver &lt;a&#xD;
+  <mainDescription>Esse template serve, principalmente, para times que utilizam somente o svn. Caso esteja utilizando o svn com o git, ver &lt;a&#xD;
 href=&quot;https://docs.github.com/pt/repositories/releasing-projects-on-github/automatically-generated-release-notes&quot;>&lt;u>&lt;font&#xD;
 color=&quot;#0066cc&quot;>https://docs.github.com/pt/repositories/releasing-projects-on-github/automatically-generated-release-notes&lt;/font>&lt;/u>&lt;/a></mainDescription>
   <attachments>resources/Template - Release Notes.pdf</attachments>
