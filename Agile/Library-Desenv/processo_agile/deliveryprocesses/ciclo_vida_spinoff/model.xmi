@@ -103,10 +103,6 @@
         <methodElementProperty xmi:id="_vRyFwbYLEeqg4f8Z6qcEcA" name="successor" value="_SnWRAGflEeeJroYH56TLOQ"/>
         <pred xsi:type="org.eclipse.epf.uma:TaskDescriptor" href="uma://_4Xt7YGfkEeeJroYH56TLOQ#_GdnfEGflEeeJroYH56TLOQ"/>
       </processElements>
-      <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_waL4QLYLEeqg4f8Z6qcEcA" guid="_waL4QLYLEeqg4f8Z6qcEcA">
-        <methodElementProperty xmi:id="_waL4QbYLEeqg4f8Z6qcEcA" name="successor" value="_S8CuoGflEeeJroYH56TLOQ"/>
-        <pred xsi:type="org.eclipse.epf.uma:TaskDescriptor" href="uma://_4Xt7YGfkEeeJroYH56TLOQ#_SnWRAGflEeeJroYH56TLOQ"/>
-      </processElements>
       <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_w9qYwbYLEeqg4f8Z6qcEcA" guid="_w9qYwbYLEeqg4f8Z6qcEcA">
         <methodElementProperty xmi:id="_w9qYwrYLEeqg4f8Z6qcEcA" name="successor" value="_S8CuoGflEeeJroYH56TLOQ"/>
         <pred xsi:type="org.eclipse.epf.uma:TaskDescriptor" href="uma://_4Xt7YGfkEeeJroYH56TLOQ#_IoRYwGflEeeJroYH56TLOQ"/>
@@ -134,6 +130,14 @@
       <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_PEUcIcK2Eeq0I7bZu2e3JA" guid="_PEUcIcK2Eeq0I7bZu2e3JA">
         <methodElementProperty xmi:id="_PEUcIsK2Eeq0I7bZu2e3JA" name="successor" value="_CGd4oGflEeeJroYH56TLOQ"/>
         <pred xsi:type="org.eclipse.epf.uma:TaskDescriptor" href="uma://_4Xt7YGfkEeeJroYH56TLOQ#_ESitIMIdEequQY-p1WXfJQ"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_D2qiIO5ZEe20QOEjiT9xeQ" guid="_D2qiIO5ZEe20QOEjiT9xeQ">
+        <methodElementProperty xmi:id="_D2qiIe5ZEe20QOEjiT9xeQ" name="successor" value="_tmMwwO5YEe20QOEjiT9xeQ"/>
+        <pred xsi:type="org.eclipse.epf.uma:TaskDescriptor" href="uma://_4Xt7YGfkEeeJroYH56TLOQ#_SnWRAGflEeeJroYH56TLOQ"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_MeLKge5ZEe20QOEjiT9xeQ" guid="_MeLKge5ZEe20QOEjiT9xeQ">
+        <methodElementProperty xmi:id="_MeLKgu5ZEe20QOEjiT9xeQ" name="successor" value="_S8CuoGflEeeJroYH56TLOQ"/>
+        <pred xsi:type="org.eclipse.epf.uma:TaskDescriptor" href="uma://_4Xt7YGfkEeeJroYH56TLOQ#_tmMwwO5YEe20QOEjiT9xeQ"/>
       </processElements>
     </childPackages>
     <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_I_ZX8GfoEeeJroYH56TLOQ" name="Transição" guid="_I_ZX8GfoEeeJroYH56TLOQ">
