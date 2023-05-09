@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-ofp0oGBOwXzfKxkcIQNjGg" name="criar_ambientes_de_testes,_QYsw4O4NEe2Xvun6NKV4Sw" guid="-ofp0oGBOwXzfKxkcIQNjGg" changeDate="2023-05-09T07:34:48.875-0300">
+  <mainDescription>É recomendada a criação de pelo menos um ambiente de testes, SIT, para testes de desenvolvimento, e fica como opcional a&#xD;
+criação de um ambiente de testes do cliente, UAT.</mainDescription>
+  <purpose>Criar Ambientes de Testes</purpose>
+</org.eclipse.epf.uma:TaskDescription>

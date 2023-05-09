@@ -79,6 +79,7 @@
     <resourceDescriptors xmi:id="_TgprcMLgEeqz5tEf5BYCAA" id="-pBwKq_YSj2jInD_fuc7leA" uri="guidances/examples/guia_kanban_scrum.xmi"/>
     <resourceDescriptors xmi:id="_yCD24OhREeqpRpaT9ayfbA" id="-B8hFfug1nzF0gQJA1Yz7ng" uri="guidances/templates/template_caso_de_desenvolvimento.xmi"/>
     <resourceDescriptors xmi:id="_nPFDMOhWEeqpRpaT9ayfbA" id="-dsncKOA_4CFeRD_w4ZIsng" uri="guidances/templates/template_historia_de_usuario.xmi"/>
+    <resourceDescriptors xmi:id="_SB4AcO5VEe20QOEjiT9xeQ" id="-ofp0oGBOwXzfKxkcIQNjGg" uri="tasks/criar_ambientes_de_testes.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:MethodPlugin xmi:id="_p8a8ME0ZEeeZC78fRt21fQ" name="processo_agile" guid="_p8a8ME0ZEeeZC78fRt21fQ" presentationName="Processo Agil ADS" briefDescription="Processo customizado para o curso de ADS, baseado em práticas de métodos ágeis." authors="Edson Murakami" changeDate="2017-06-09T10:45:57.957-0300" version="1.0">
     <methodElementProperty xmi:id="_p9ZzoE0ZEeeZC78fRt21fQ" name="plugin_synFree" value="true"/>
@@ -487,7 +488,7 @@
               <methodElementProperty xmi:id="_xod0AGcGEeelx-d4QgVk5A" name="me_edited" value="true"/>
               <presentation xmi:id="-gIlOyZAUGDY8eDEUj1e9qg" href="uma://-gIlOyZAUGDY8eDEUj1e9qg#-gIlOyZAUGDY8eDEUj1e9qg"/>
             </contentElements>
-            <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_2C70MGcGEeelx-d4QgVk5A" name="executar_testes" guid="_2C70MGcGEeelx-d4QgVk5A" presentationName="Executar Testes" briefDescription="Consiste em executar os testes no produto de software." examples="_hmRiwGcGEeelx-d4QgVk5A" performedBy="_jg34QE0dEeeZC78fRt21fQ" mandatoryInput="_2zmjgGcDEeelx-d4QgVk5A _4mDRMGcGEeelx-d4QgVk5A" output="_4mDRMGcGEeelx-d4QgVk5A _GfkJgGZpEee1huV63HakZg">
+            <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_2C70MGcGEeelx-d4QgVk5A" name="executar_testes" guid="_2C70MGcGEeelx-d4QgVk5A" presentationName="Executar Testes" briefDescription="Consiste em executar os testes no produto de software." examples="_hmRiwGcGEeelx-d4QgVk5A" performedBy="_jg34QE0dEeeZC78fRt21fQ" mandatoryInput="_2zmjgGcDEeelx-d4QgVk5A _4mDRMGcGEeelx-d4QgVk5A _DdZtMO4PEe2Xvun6NKV4Sw" output="_4mDRMGcGEeelx-d4QgVk5A _GfkJgGZpEee1huV63HakZg">
               <methodElementProperty xmi:id="_2PjT4GcGEeelx-d4QgVk5A" name="me_edited" value="true"/>
               <presentation xmi:id="-P-_CmNcm3TT1UsQQC9ji4Q" href="uma://-P-_CmNcm3TT1UsQQC9ji4Q#-P-_CmNcm3TT1UsQQC9ji4Q"/>
             </contentElements>
@@ -503,6 +504,7 @@
             </contentElements>
             <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_QYsw4O4NEe2Xvun6NKV4Sw" name="criar_ambientes_de_testes" guid="_QYsw4O4NEe2Xvun6NKV4Sw" presentationName="Criar Ambientes de Testes" briefDescription="Consiste em criar os ambientes de testes do produto de software." output="_eQaHkO4NEe2Xvun6NKV4Sw">
               <methodElementProperty xmi:id="_ZGDQoO4PEe2Xvun6NKV4Sw" name="me_edited" value="true"/>
+              <presentation xmi:id="-ofp0oGBOwXzfKxkcIQNjGg" href="uma://-ofp0oGBOwXzfKxkcIQNjGg#-ofp0oGBOwXzfKxkcIQNjGg"/>
             </contentElements>
             <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_eQaHkO4NEe2Xvun6NKV4Sw" name="ambientes_de_testes" guid="_eQaHkO4NEe2Xvun6NKV4Sw" presentationName="Ambientes de Testes" briefDescription="Ambientes de Testes (UAT para testes do cliente, e SIT para testes de desenvolvimento)">
               <methodElementProperty xmi:id="_YfJBoO4PEe2Xvun6NKV4Sw" name="me_edited" value="true"/>
