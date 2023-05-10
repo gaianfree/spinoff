@@ -79,6 +79,7 @@
     <resourceDescriptors xmi:id="_TgprcMLgEeqz5tEf5BYCAA" id="-pBwKq_YSj2jInD_fuc7leA" uri="guidances/examples/guia_kanban_scrum.xmi"/>
     <resourceDescriptors xmi:id="_yCD24OhREeqpRpaT9ayfbA" id="-B8hFfug1nzF0gQJA1Yz7ng" uri="guidances/templates/template_caso_de_desenvolvimento.xmi"/>
     <resourceDescriptors xmi:id="_nPFDMOhWEeqpRpaT9ayfbA" id="-dsncKOA_4CFeRD_w4ZIsng" uri="guidances/templates/template_historia_de_usuario.xmi"/>
+    <resourceDescriptors xmi:id="_wxauYO4-Ee2fTLbRRCwmEA" id="-siNjV2jMiy53qOvdrg6xng" uri="guidances/guidelines/guia_para_identificao_de_custos.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:MethodPlugin xmi:id="_p8a8ME0ZEeeZC78fRt21fQ" name="processo_agile" guid="_p8a8ME0ZEeeZC78fRt21fQ" presentationName="Processo Agil ADS" briefDescription="Processo customizado para o curso de ADS, baseado em práticas de métodos ágeis." authors="Edson Murakami" changeDate="2017-06-09T10:45:57.957-0300" version="1.0">
     <methodElementProperty xmi:id="_p9ZzoE0ZEeeZC78fRt21fQ" name="plugin_synFree" value="true"/>
@@ -211,7 +212,7 @@
             <methodElementProperty xmi:id="_ew1m8GZnEee1huV63HakZg" name="me_edited" value="true"/>
             <presentation xmi:id="-3MyKmkZj3qeMxeHs0YVqCQ" href="uma://-3MyKmkZj3qeMxeHs0YVqCQ#-3MyKmkZj3qeMxeHs0YVqCQ"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_e_Ef8GZWEee1huV63HakZg" name="reuniao_planejamento_projeto" guid="_e_Ef8GZWEee1huV63HakZg" presentationName="Reunião de Planejamento do Projeto" briefDescription="A reunião de planejamento tem a finalidade de planejar o a execução do projeto e criar insumos para monitoramento e controle do projeto." guidelines="_q0JkQI40EeqPTOk8qo7S2Q _St8QALZGEeqfZPEi8_DfSQ" examples="_1CfX4GfXEee98KTxJdQ4aA _QDMZYGe9Eee98KTxJdQ4aA _YkMKEGe9Eee98KTxJdQ4aA _2Z4JkMLfEeqz5tEf5BYCAA" performedBy="_Zj1nYE0dEeeZC78fRt21fQ" mandatoryInput="_cWdAoGaSEeeSdMzcHvBvqg _XenvAGaSEeeSdMzcHvBvqg _4myakGcSEeelx-d4QgVk5A" output="_U0xmcGZnEee1huV63HakZg _4myakGcSEeelx-d4QgVk5A _7UTzAGZdEee1huV63HakZg _RgU6wHH6EeeNG_oM-1Xh7g" additionallyPerformedBy="_0sP_IE0dEeeZC78fRt21fQ _VUDXwE0eEeeZC78fRt21fQ">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_e_Ef8GZWEee1huV63HakZg" name="reuniao_planejamento_projeto" guid="_e_Ef8GZWEee1huV63HakZg" presentationName="Reunião de Planejamento do Projeto" briefDescription="A reunião de planejamento tem a finalidade de planejar o a execução do projeto e criar insumos para monitoramento e controle do projeto." guidelines="_q0JkQI40EeqPTOk8qo7S2Q _St8QALZGEeqfZPEi8_DfSQ _QGvPoO44Ee2fTLbRRCwmEA" examples="_1CfX4GfXEee98KTxJdQ4aA _QDMZYGe9Eee98KTxJdQ4aA _YkMKEGe9Eee98KTxJdQ4aA _2Z4JkMLfEeqz5tEf5BYCAA" performedBy="_Zj1nYE0dEeeZC78fRt21fQ" mandatoryInput="_cWdAoGaSEeeSdMzcHvBvqg _XenvAGaSEeeSdMzcHvBvqg _4myakGcSEeelx-d4QgVk5A" output="_U0xmcGZnEee1huV63HakZg _4myakGcSEeelx-d4QgVk5A _7UTzAGZdEee1huV63HakZg _RgU6wHH6EeeNG_oM-1Xh7g" additionallyPerformedBy="_0sP_IE0dEeeZC78fRt21fQ _VUDXwE0eEeeZC78fRt21fQ">
             <methodElementProperty xmi:id="_sFWZsGZWEee1huV63HakZg" name="me_edited" value="true"/>
             <presentation xmi:id="-SiIH0fz_VmUeTbRCtLlohg" href="uma://-SiIH0fz_VmUeTbRCtLlohg#-SiIH0fz_VmUeTbRCtLlohg"/>
           </contentElements>
@@ -283,6 +284,10 @@
           <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_q4i2gOhREeqpRpaT9ayfbA" name="template_caso_de_desenvolvimento" guid="_q4i2gOhREeqpRpaT9ayfbA" presentationName="Template Caso de Desenvolvimento" briefDescription="Documento utilizado para registrar a customização do SpinOff para uso no projeto.">
             <methodElementProperty xmi:id="_yCAzkOhREeqpRpaT9ayfbA" name="me_edited" value="true"/>
             <presentation xmi:id="-B8hFfug1nzF0gQJA1Yz7ng" href="uma://-B8hFfug1nzF0gQJA1Yz7ng#-B8hFfug1nzF0gQJA1Yz7ng"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_QGvPoO44Ee2fTLbRRCwmEA" name="guia_para_identificao_de_custos" guid="_QGvPoO44Ee2fTLbRRCwmEA" presentationName="Guia - Identificação de Custos" briefDescription="Este guia visa auxiliar o time a identificar os custos que envolvem o projeto.">
+            <methodElementProperty xmi:id="_wxXEAO4-Ee2fTLbRRCwmEA" name="me_edited" value="true"/>
+            <presentation xmi:id="-siNjV2jMiy53qOvdrg6xng" href="uma://-siNjV2jMiy53qOvdrg6xng#-siNjV2jMiy53qOvdrg6xng"/>
           </contentElements>
         </childPackages>
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_R5NWoE0gEeeZC78fRt21fQ" name="gestao_configuracao" guid="_R5NWoE0gEeeZC78fRt21fQ" presentationName="Gestão de Configuração e Mudanças" briefDescription="Disciplina de Gestão de Configuração e Mudanças, responsável pela organização e integridade dos produtos de trabalho produzidos ao longo do desenvolvimento e pelo controle das mudanças.">

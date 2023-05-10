@@ -20,31 +20,42 @@
 &lt;/p>&#xD;
 &lt;br /></sectionDescription>
   </sections>
-  <sections xmi:id="_TOgy4I44EeqPTOk8qo7S2Q" name="Criar plano de gestão de riscos" guid="_TOgy4I44EeqPTOk8qo7S2Q">
+  <sections xmi:id="_TOgy4I44EeqPTOk8qo7S2Q" name="Criar plano de gestão de riscos " guid="_TOgy4I44EeqPTOk8qo7S2Q">
     <sectionDescription>&lt;p>&#xD;
     É muito importante durante o planejamento do projeto identificar os riscos ao projeto.&#xD;
 &lt;/p>&#xD;
 &lt;p>&#xD;
-    O &lt;a class=&quot;elementLink&quot; href=&quot;./../../processo_agile/roles/time_desenvolvimento_837780B8.html&quot;&#xD;
-    guid=&quot;_VUDXwE0eEeeZC78fRt21fQ&quot;>Time de Desenvolvimento&lt;/a>&amp;nbsp;e o &lt;a class=&quot;elementLink&quot;&#xD;
-    href=&quot;./../../processo_agile/roles/scrum_master_BEC8226F.html&quot; guid=&quot;_Zj1nYE0dEeeZC78fRt21fQ&quot;>Scrum Master&lt;/a> devem se&#xD;
+    O &lt;a class=&quot;elementLink&quot; href=&quot;./../../processo_agile/roles/time_desenvolvimento_837780B8.html&quot; guid=&quot;_VUDXwE0eEeeZC78fRt21fQ&quot;>Time de Desenvolvimento&lt;/a>&amp;nbsp;e o &lt;a class=&quot;elementLink&quot; href=&quot;./../../processo_agile/roles/scrum_master_BEC8226F.html&quot; guid=&quot;_Zj1nYE0dEeeZC78fRt21fQ&quot;>Scrum Master&lt;/a> devem se&#xD;
     reunir para identificá-los e planejar a eliminação, mitigação ou&amp;nbsp;contingência de cada um.&#xD;
 &lt;/p>&#xD;
 &lt;p>&#xD;
-    O &lt;a class=&quot;elementLink&quot; href=&quot;./../../processo_agile/workproducts/visao_BC2A1584.html&quot;&#xD;
-    guid=&quot;_XenvAGaSEeeSdMzcHvBvqg&quot;>Visão&lt;/a>&amp;nbsp;e as respostas aos&amp;nbsp;questionamentos do&amp;nbsp;&lt;a class=&quot;elementLink&quot;&#xD;
-    href=&quot;./../../processo_agile/guidances/guidelines/guia_para_identificao_de_riscos_A390DA93.html&quot;&#xD;
-    guid=&quot;_q0JkQI40EeqPTOk8qo7S2Q&quot;>Guia - Identificação de Riscos&lt;/a> ajudam a identificar os riscos do projeto.&#xD;
+    O &lt;a class=&quot;elementLink&quot; href=&quot;./../../processo_agile/workproducts/visao_BC2A1584.html&quot; guid=&quot;_XenvAGaSEeeSdMzcHvBvqg&quot;>Visão&lt;/a>&amp;nbsp;e as respostas aos&amp;nbsp;questionamentos do&amp;nbsp;&lt;a class=&quot;elementLink&quot; href=&quot;./../../processo_agile/guidances/guidelines/guia_para_identificao_de_riscos_A390DA93.html&quot; guid=&quot;_q0JkQI40EeqPTOk8qo7S2Q&quot;>Guia - Identificação de Riscos&lt;/a> ajudam a identificar os riscos do projeto.&#xD;
 &lt;/p>&#xD;
 &lt;p>&#xD;
-    Todos os riscos identificados&amp;nbsp;devem ser&amp;nbsp;relacionados na planilha de gestão de riscos (&lt;a class=&quot;elementLink&quot;&#xD;
-    href=&quot;./../../processo_agile/workproducts/planilha_pcp_EFCEC02C.html&quot; guid=&quot;_U0xmcGZnEee1huV63HakZg&quot;>Planilha de&#xD;
-    Planejamento e Controle do Projeto&lt;/a>) para monitoramento e controle.&#xD;
+    Todos os riscos identificados&amp;nbsp;devem ser&amp;nbsp;relacionados na planilha de gestão de riscos (&lt;a class=&quot;elementLink&quot; href=&quot;./../../processo_agile/workproducts/planilha_pcp_EFCEC02C.html&quot; guid=&quot;_U0xmcGZnEee1huV63HakZg&quot;>Planilha de Planejamento e Controle do Projeto&lt;/a>) para monitoramento e controle.&#xD;
 &lt;/p>&#xD;
 &lt;p>&#xD;
-    Em todas as &lt;a class=&quot;elementLink&quot; href=&quot;./../../processo_agile/tasks/reuniao_revisao_sprint_94DA3C32.html&quot;&#xD;
-    guid=&quot;_Gtf-4GfJEee98KTxJdQ4aA&quot;>Reunião de Revisão do Sprint (Sprint Retrospective)&lt;/a> no final de cada Sprint os&#xD;
-    riscos devem ser reavaliados.&#xD;
+    Em todas as &lt;a class=&quot;elementLink&quot; href=&quot;./../../processo_agile/tasks/reuniao_revisao_sprint_94DA3C32.html&quot; guid=&quot;_Gtf-4GfJEee98KTxJdQ4aA&quot;>Reunião de Revisão do Sprint (Sprint Retrospective)&lt;/a> no final de cada Sprint os&#xD;
+    riscos devem ser reavaliados.&amp;nbsp;&amp;nbsp;&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_hrOsAO42Ee2fTLbRRCwmEA" name="Criar plano de gerenciamento de custos" guid="_hrOsAO42Ee2fTLbRRCwmEA">
+    <sectionDescription>&lt;p>&#xD;
+    É muito importante durante o planejamento do projeto identificar e gerenciar os custos que o envolvem.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    O &lt;a class=&quot;elementLink&quot; href=&quot;./../../processo_agile/roles/time_desenvolvimento_837780B8.html&quot; guid=&quot;_VUDXwE0eEeeZC78fRt21fQ&quot;>Time de Desenvolvimento&lt;/a>&amp;nbsp;e o &lt;a class=&quot;elementLink&quot; href=&quot;./../../processo_agile/roles/scrum_master_BEC8226F.html&quot; guid=&quot;_Zj1nYE0dEeeZC78fRt21fQ&quot;>Scrum Master&lt;/a> devem se&#xD;
+    reunir para identificar quais serão os custos envolvidos no projeto.&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    O&amp;nbsp;Guia - Identificação de custos &amp;nbsp;ajudam a identificar os custos e seu tipo.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Todos os custos que envolvem o projeto devem ser identificados e documentados&amp;nbsp;na planilha de custos&amp;nbsp;(&lt;a class=&quot;elementLink&quot; href=&quot;./../../processo_agile/workproducts/planilha_pcp_EFCEC02C.html&quot; guid=&quot;_U0xmcGZnEee1huV63HakZg&quot;>Planilha de Planejamento e Controle do Projeto&lt;/a>) para monitoramento e controle.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Em&amp;nbsp;cada &lt;a class=&quot;elementLink&quot; href=&quot;./../../processo_agile/tasks/reuniao_revisao_sprint_94DA3C32.html&quot; guid=&quot;_Gtf-4GfJEee98KTxJdQ4aA&quot;>Reunião de Revisão do Sprint (Sprint Retrospective)&lt;/a>, realizada&amp;nbsp;no final de cada&#xD;
+    Sprint, os&amp;nbsp;custos&amp;nbsp;devem ser reavaliados e alterados de acordo com o planejamento financeiro do sprint.&#xD;
 &lt;/p></sectionDescription>
   </sections>
   <sections xmi:id="_bxkKYGfQEee98KTxJdQ4aA" name="Priorizar os itens do Backlog do Produto" guid="_bxkKYGfQEee98KTxJdQ4aA">
