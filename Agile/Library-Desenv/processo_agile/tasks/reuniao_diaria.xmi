@@ -58,7 +58,15 @@ style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; 
   </sections>
   <sections xmi:id="_Coqx4O5BEe2fTLbRRCwmEA" name="Documentar os problemas e soluções" guid="_Coqx4O5BEe2fTLbRRCwmEA">
     <sectionDescription>Caso, durante a reunião diária (Daily Scrum), sejam identificados ou relatados problemas que estão impedindo a realização&#xD;
+<<<<<<< HEAD
 de alguma tarefa, o&amp;nbsp;&lt;a class=&quot;elementLinkWithType&quot; href=&quot;./../../processo_agile/roles/scrum_master_BEC8226F.html&quot; guid=&quot;_Zj1nYE0dEeeZC78fRt21fQ&quot;>Role: Scrum Master&lt;/a> deve assegurar que alguem do time solucione o problema, alem de&#xD;
 orientar que o problemas seja devidamente identificado &lt;a class=&quot;elementLinkWithType&quot; href=&quot;./../../processo_agile/workproducts/planilha_pcp_EFCEC02C.html&quot; guid=&quot;_U0xmcGZnEee1huV63HakZg&quot;>Artifact: Planilha de Planejamento e Controle do Projeto&lt;/a>, assim como a estratégia de resposta e a solução final adotada.</sectionDescription>
+=======
+de alguma tarefa, o&amp;nbsp;&lt;a class=&quot;elementLink&quot; href=&quot;./../../processo_agile/roles/scrum_master_BEC8226F.html&quot;&#xD;
+guid=&quot;_Zj1nYE0dEeeZC78fRt21fQ&quot;>Scrum Master&lt;/a> deve assegurar que alguem do time solucione o problema, alem de orientar&#xD;
+que o problemas seja devidamente identificado &lt;a class=&quot;elementLinkWithType&quot;&#xD;
+href=&quot;./../../processo_agile/workproducts/planilha_pcp_EFCEC02C.html&quot; guid=&quot;_U0xmcGZnEee1huV63HakZg&quot;>Artifact: Planilha de&#xD;
+Planejamento e Controle do Projeto&lt;/a>, assim como a estratégia de resposta e a solução final adotada.</sectionDescription>
+>>>>>>> c60e1ad3771271df5c525bb4087a20732d3cf33b
   </sections>
 </org.eclipse.epf.uma:TaskDescription>
