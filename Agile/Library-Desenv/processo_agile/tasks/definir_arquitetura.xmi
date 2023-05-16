@@ -101,10 +101,23 @@
             guid=&quot;_9UCO0Gb8Eeelx-d4QgVk5A&quot;>Modelo de Arquitetura&lt;/a>.&#xD;
         &lt;/div>&#xD;
     &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;div class=&quot;MsoNormal&quot; style=&quot;MARGIN: 0cm 0cm 0pt&quot;>&#xD;
+            &lt;p>&#xD;
+                Na maioria dos projetos de software, há algum reúso de software. Isso acontece muitas vezes informalmente,&#xD;
+                quando as pessoas envolvidas no projeto sabem de projetos ou códigos semelhantes ao que é exigido. Elas os&#xD;
+                buscam, fazem as modificações necessárias e incorporam-nos a seus sistemas.&amp;nbsp;&#xD;
+            &lt;/p>&#xD;
+            &lt;p>&#xD;
+                Para saber como funciona o processo de aquisição de componentes reutilizáveis acesse o &lt;a&#xD;
+                class=&quot;elementLink&quot; href=&quot;./../../processo_agile/guidances/examples/guia_cots_F4745C22.html&quot;&#xD;
+                guid=&quot;_0Cf30PPUEe26ta5PAQ-DLw&quot;>Guia - COTS&lt;/a>.&#xD;
+            &lt;/p>&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
 &lt;/ul>&#xD;
-&lt;p class=&quot;MsoNormal&quot; style=&quot;MARGIN: 0cm 0cm 0pt&quot;>&#xD;
-    &amp;nbsp;&#xD;
-&lt;/p>&#xD;
+&lt;br class=&quot;MsoNormal&quot; style=&quot;MARGIN: 0cm 0cm 0pt&quot; />&#xD;
+&lt;br />&#xD;
 &lt;br class=&quot;MsoNormal&quot; style=&quot;MARGIN: 0cm 0cm 0pt&quot; />&#xD;
 &lt;br /></sectionDescription>
   </sections>
