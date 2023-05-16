@@ -3,5 +3,5 @@
   <mainDescription>Esse template serve, principalmente, para times que utilizam somente o svn. Caso esteja utilizando o svn com o git, ver &lt;a&#xD;
 href=&quot;https://docs.github.com/pt/repositories/releasing-projects-on-github/automatically-generated-release-notes&quot;>&lt;u>&lt;font&#xD;
 color=&quot;#0066cc&quot;>https://docs.github.com/pt/repositories/releasing-projects-on-github/automatically-generated-release-notes&lt;/font>&lt;/u>&lt;/a></mainDescription>
-  <attachments>resources/Template - Release Notes.pdf</attachments>
+  <attachments>resources/Template - RN-Release Notes.dotx</attachments>
 </org.eclipse.epf.uma:GuidanceDescription>
