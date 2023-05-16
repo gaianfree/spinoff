@@ -27,8 +27,10 @@
   <sections xmi:id="_-yt6s2b5Eeelx-d4QgVk5A" name="Desenvolver a Arquitetura" guid="_-yt6s2b5Eeelx-d4QgVk5A">
     <sectionDescription>&lt;p class=&quot;MsoNormal&quot; style=&quot;MARGIN: 0cm 0cm 0pt&quot;>&#xD;
     &lt;span lang=&quot;PT-BR&quot;>A análise arquitetural concentra-se em definir uma sugestão de arquitetura e restringir as técnicas&#xD;
-    de arquitetura a serem utilizadas no projeto. Ela conta com a experiência obtida com projetos de domínios de problemas&#xD;
-    semelhantes para não desperdiçar esforço na 'redescoberta arquitetural'.&lt;/span>&#xD;
+    de &lt;span&#xD;
+    style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; TEXT-ALIGN: left; ORPHANS: 2; WIDOWS: 2; DISPLAY: inline !important; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+    arquitetura&lt;/span>&amp;nbsp;a serem utilizadas no projeto. Ela conta com a experiência obtida com projetos de domínios de&#xD;
+    problemas semelhantes para não desperdiçar esforço na 'redescoberta arquitetural'.&lt;/span>&#xD;
 &lt;/p>&#xD;
 &lt;br class=&quot;MsoNormal&quot; style=&quot;MARGIN: 0cm 0cm 0pt&quot; />&#xD;
 &lt;p class=&quot;MsoNormal&quot; style=&quot;MARGIN: 0cm 0cm 0pt&quot;>&#xD;
@@ -99,7 +101,12 @@
             guid=&quot;_9UCO0Gb8Eeelx-d4QgVk5A&quot;>Modelo de Arquitetura&lt;/a>.&#xD;
         &lt;/div>&#xD;
     &lt;/li>&#xD;
-&lt;/ul></sectionDescription>
+&lt;/ul>&#xD;
+&lt;p class=&quot;MsoNormal&quot; style=&quot;MARGIN: 0cm 0cm 0pt&quot;>&#xD;
+    &amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;br class=&quot;MsoNormal&quot; style=&quot;MARGIN: 0cm 0cm 0pt&quot; />&#xD;
+&lt;br /></sectionDescription>
   </sections>
   <sections xmi:id="_-yt6sWb5Eeelx-d4QgVk5A" name="Desenvolver Guia de Implementação" guid="_-yt6sWb5Eeelx-d4QgVk5A">
     <sectionDescription>&lt;p>&#xD;
@@ -128,7 +135,17 @@
     class=&quot;elementLink&quot; href=&quot;./../../processo_agile/workproducts/modelo_arquitetura_4779B597.html&quot;&#xD;
     guid=&quot;_9UCO0Gb8Eeelx-d4QgVk5A&quot;>Modelo de Arquitetura&lt;/a> e no &lt;a class=&quot;elementLink&quot;&#xD;
     href=&quot;./../../processo_agile/workproducts/guia_implementação_E3C99C55.html&quot; guid=&quot;_vlXKQGb6Eeelx-d4QgVk5A&quot;>Guia de&#xD;
-    Implementação&lt;/a>.&lt;br />&#xD;
+    Implementação&lt;/a>.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Na maioria dos projetos de software, há algum reúso de software. Isso acontece muitas vezes informalmente, quando as&#xD;
+    pessoas envolvidas no projeto sabem de projetos ou códigos semelhantes ao que é exigido. Elas os buscam, fazem as&#xD;
+    modificações necessárias e incorporam-nos a seus sistemas.&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Para saber como funciona o processo de aquisição de componentes reutilizáveis acesse o &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../processo_agile/guidances/examples/new_example_F4745C22.html&quot; guid=&quot;_0Cf30PPUEe26ta5PAQ-DLw&quot;>Guia -&#xD;
+    COTS&lt;/a>.&#xD;
 &lt;/p></sectionDescription>
   </sections>
   <sections xmi:id="_tePzIGcCEeelx-d4QgVk5A" name="Apresentar a arquitetura aos desenvolvedores" guid="_tePzIGcCEeelx-d4QgVk5A">
