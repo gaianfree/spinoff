@@ -82,8 +82,9 @@
     <resourceDescriptors xmi:id="_6fE4QO0GEe28ub4xPlWhiw" id="-NzMOXguRO0RPN3TS2YLwAw" uri="roles/equipe_qualidade.xmi"/>
     <resourceDescriptors xmi:id="_AdGD8O0JEe28ub4xPlWhiw" id="-lbtB_s_eKOxS_LckR47JXA" uri="guidances/guidelines/def_criterios_checklist.xmi"/>
     <resourceDescriptors xmi:id="_-YBYYO0JEe28ub4xPlWhiw" id="-54dyb1_9sPBBks5VCHkidA" uri="workproducts/relatorio_nconformidade.xmi"/>
-    <resourceDescriptors xmi:id="_-zm2QO0LEe28ub4xPlWhiw" id="-W902XIvthmr6Xj2o1kEpGA" uri="tasks/selec_codigos.xmi"/>
     <resourceDescriptors xmi:id="_HodXEO0MEe28ub4xPlWhiw" id="-SGdwI4EvkpISUlbaGKBPYw" uri="guidances/guidelines/guia_selec_prod_trabalhos.xmi"/>
+    <resourceDescriptors xmi:id="_X2SHcPPZEe2h05WOR3Bamg" id="-AAYKxgTq2ubHq5Xx2qnPig" uri="guidances/templates/template_relatorio_nconformidade.xmi"/>
+    <resourceDescriptors xmi:id="_lI9XEPPcEe2h05WOR3Bamg" id="-OVKfR_BjJ33rf5OyHSYGfg" uri="tasks/revisao_final.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:MethodPlugin xmi:id="_p8a8ME0ZEeeZC78fRt21fQ" name="processo_agile" guid="_p8a8ME0ZEeeZC78fRt21fQ" presentationName="Processo Agil ADS" briefDescription="Processo customizado para o curso de ADS, baseado em práticas de métodos ágeis." authors="Edson Murakami" changeDate="2017-06-09T10:45:57.957-0300" version="1.0">
     <methodElementProperty xmi:id="_p9ZzoE0ZEeeZC78fRt21fQ" name="plugin_synFree" value="true"/>
@@ -124,7 +125,7 @@
           <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_eIhloMXsEequ6seB3ihkcg" name="new_discip" guid="_eIhloMXsEequ6seB3ihkcg" presentationName="New Discipline">
             <methodElementProperty xmi:id="_rb3D8MXsEequ6seB3ihkcg" name="me_edited" value="true"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_lsfsEO0EEe28ub4xPlWhiw" name="garantia_qualidade" guid="_lsfsEO0EEe28ub4xPlWhiw" presentationName="Garantia de Qualidade" tasks="_RWexAO0LEe28ub4xPlWhiw">
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_lsfsEO0EEe28ub4xPlWhiw" name="garantia_qualidade" guid="_lsfsEO0EEe28ub4xPlWhiw" presentationName="Garantia de Qualidade">
             <methodElementProperty xmi:id="_sNGSUO0EEe28ub4xPlWhiw" name="me_edited" value="true"/>
           </contentElements>
         </childPackages>
@@ -544,7 +545,7 @@
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_hRWy8O0DEe28ub4xPlWhiw" name="garantia_qualidade" guid="_hRWy8O0DEe28ub4xPlWhiw" presentationName="Garantia de Qualidade" briefDescription="Disciplina de Garantia de Qualidade, responsável por garantir a execução do SpinOff atenda aos padrões estabelecidos.">
           <methodElementProperty xmi:id="_hRYoIO0DEe28ub4xPlWhiw" name="pkg_loadCheck" value="true"/>
           <methodElementProperty xmi:id="_APj7EO0FEe28ub4xPlWhiw" name="me_edited" value="true"/>
-          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_03RXsO0FEe28ub4xPlWhiw" name="equipe_qualidade" guid="_03RXsO0FEe28ub4xPlWhiw" presentationName="Equipe de Garantia de Qualidade">
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_03RXsO0FEe28ub4xPlWhiw" name="equipe_qualidade" guid="_03RXsO0FEe28ub4xPlWhiw" presentationName="Equipe de Garantia de Qualidade" briefDescription="A Equipe de Garantia de Qualidade é formada por integrantes que podem possuir outros papeis no SpinOff. A equipe não deve ser grande, é recomendado uma dupla de pessoas, é indicado que seja formada pelo scrum master e um desenvolvedor, para assim, em eventuais tarefas possibilitar o uso de revisão em pares.">
             <methodElementProperty xmi:id="_S0SlEO0GEe28ub4xPlWhiw" name="me_edited" value="true"/>
             <presentation xmi:id="-NzMOXguRO0RPN3TS2YLwAw" href="uma://-NzMOXguRO0RPN3TS2YLwAw#-NzMOXguRO0RPN3TS2YLwAw"/>
           </contentElements>
@@ -558,14 +559,18 @@
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_e_TMkO0KEe28ub4xPlWhiw" name="template_relatorio_nconformidade" guid="_e_TMkO0KEe28ub4xPlWhiw" presentationName="Template do Relatório de Não Conformidade">
             <methodElementProperty xmi:id="_zEKpEO0KEe28ub4xPlWhiw" name="me_edited" value="true"/>
-          </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_RWexAO0LEe28ub4xPlWhiw" name="selec_codigos" guid="_RWexAO0LEe28ub4xPlWhiw" presentationName="Selecionar Implementações de Códigos pra Análise">
-            <methodElementProperty xmi:id="_H4ySEO0MEe28ub4xPlWhiw" name="me_edited" value="true"/>
-            <presentation xmi:id="-W902XIvthmr6Xj2o1kEpGA" href="uma://-W902XIvthmr6Xj2o1kEpGA#-W902XIvthmr6Xj2o1kEpGA"/>
+            <presentation xmi:id="-AAYKxgTq2ubHq5Xx2qnPig" href="uma://-AAYKxgTq2ubHq5Xx2qnPig#-AAYKxgTq2ubHq5Xx2qnPig"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_-zh9wO0LEe28ub4xPlWhiw" name="guia_selec_prod_trabalhos" guid="_-zh9wO0LEe28ub4xPlWhiw" presentationName="Guia de Seleção de Produtos de Trabalhos">
             <methodElementProperty xmi:id="_HoYekO0MEe28ub4xPlWhiw" name="me_edited" value="true"/>
             <presentation xmi:id="-SGdwI4EvkpISUlbaGKBPYw" href="uma://-SGdwI4EvkpISUlbaGKBPYw#-SGdwI4EvkpISUlbaGKBPYw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_cn1qkPPcEe2h05WOR3Bamg" name="revisao_final" guid="_cn1qkPPcEe2h05WOR3Bamg" presentationName="Reunião Final de Revisão de Processo">
+            <methodElementProperty xmi:id="_lI660PPcEe2h05WOR3Bamg" name="me_edited" value="true"/>
+            <presentation xmi:id="-OVKfR_BjJ33rf5OyHSYGfg" href="uma://-OVKfR_BjJ33rf5OyHSYGfg#-OVKfR_BjJ33rf5OyHSYGfg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_7XUPoPPcEe2h05WOR3Bamg" name="relatorio_finalProjeto" guid="_7XUPoPPcEe2h05WOR3Bamg" presentationName="Relatório Final do Projeto">
+            <methodElementProperty xmi:id="_RpkwwPPdEe2h05WOR3Bamg" name="me_edited" value="true"/>
           </contentElements>
         </childPackages>
       </childPackages>
