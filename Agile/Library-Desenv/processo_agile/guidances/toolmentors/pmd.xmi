@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-qWbh0tR0oTrennNaulC4wQ" name="pmd,_82U84PTwEe2afPsB6oMReA" guid="-qWbh0tR0oTrennNaulC4wQ" changeDate="2023-05-17T18:35:02.236-0300">
+  <mainDescription>&lt;b id=&quot;docs-internal-guid-a46f894d-7fff-3ff2-8b6c-65154729997a&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;/b> &#xD;
+&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;b id=&quot;docs-internal-guid-a46f894d-7fff-3ff2-8b6c-65154729997a&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+    style=&quot;FONT-SIZE: 10.5pt; TEXT-DECORATION: none; FONT-FAMILY: Roboto,sans-serif; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: #ffffff&quot;>&#xD;
+    &lt;font size=&quot;2&quot;>Ferramenta usada na verificação estática automatizada do &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../processo_agile/workproducts/codigo_fonte_70A4FF68.html&quot; guid=&quot;_2zmjgGcDEeelx-d4QgVk5A&quot;>Codigo&#xD;
+    Fonte&lt;/a>.&amp;nbsp;&lt;/font>&lt;/span>&lt;/b>&#xD;
+&lt;/p>&#xD;
+&lt;br />&#xD;
+&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;span&#xD;
+    style=&quot;FONT-SIZE: 10.5pt; TEXT-DECORATION: none; FONT-FAMILY: Roboto,sans-serif; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: #ffffff&quot;>&#xD;
+    &lt;font size=&quot;2&quot;>Para fazer o download da ferramenta online, &lt;a href=&quot;https://pmd.github.io/&quot; target=&quot;_blank&quot;>clique&#xD;
+    aqui&lt;/a>.&amp;nbsp;&lt;/font>&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;br />&#xD;
+&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;span&#xD;
+    style=&quot;FONT-SIZE: 10.5pt; TEXT-DECORATION: none; FONT-FAMILY: Roboto,sans-serif; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: #ffffff&quot;>&#xD;
+    &lt;font size=&quot;2&quot;>Acesse o &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../processo_agile/guidances/examples/guia_pmd_2B8E2115.html&quot; guid=&quot;_-Tv9IPTwEe2afPsB6oMReA&quot;>Guia -&#xD;
+    PMD&lt;/a> para mais informações sobre a instalação, configuração e utilização da ferramenta no&#xD;
+    projeto.&lt;/font>&amp;nbsp;&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;br class=&quot;Apple-interchange-newline&quot; /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

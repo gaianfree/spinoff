@@ -85,6 +85,8 @@
     <resourceDescriptors xmi:id="_HodXEO0MEe28ub4xPlWhiw" id="-SGdwI4EvkpISUlbaGKBPYw" uri="guidances/guidelines/guia_selec_prod_trabalhos.xmi"/>
     <resourceDescriptors xmi:id="_X2SHcPPZEe2h05WOR3Bamg" id="-AAYKxgTq2ubHq5Xx2qnPig" uri="guidances/templates/template_relatorio_nconformidade.xmi"/>
     <resourceDescriptors xmi:id="_lI9XEPPcEe2h05WOR3Bamg" id="-OVKfR_BjJ33rf5OyHSYGfg" uri="tasks/revisao_final.xmi"/>
+    <resourceDescriptors xmi:id="_OuU5MPTxEe2afPsB6oMReA" id="-V4bxOti5BaMR0ywlE0U8rw" uri="guidances/examples/guia_pmd.xmi"/>
+    <resourceDescriptors xmi:id="_pV-hsPT7Ee2afPsB6oMReA" id="-qWbh0tR0oTrennNaulC4wQ" uri="guidances/toolmentors/pmd.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:MethodPlugin xmi:id="_p8a8ME0ZEeeZC78fRt21fQ" name="processo_agile" guid="_p8a8ME0ZEeeZC78fRt21fQ" presentationName="Processo Agil ADS" briefDescription="Processo customizado para o curso de ADS, baseado em práticas de métodos ágeis." authors="Edson Murakami" changeDate="2017-06-09T10:45:57.957-0300" version="1.0">
     <methodElementProperty xmi:id="_p9ZzoE0ZEeeZC78fRt21fQ" name="plugin_synFree" value="true"/>
@@ -571,6 +573,14 @@
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_7XUPoPPcEe2h05WOR3Bamg" name="relatorio_finalProjeto" guid="_7XUPoPPcEe2h05WOR3Bamg" presentationName="Relatório Final do Projeto">
             <methodElementProperty xmi:id="_RpkwwPPdEe2h05WOR3Bamg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_82U84PTwEe2afPsB6oMReA" name="pmd" guid="_82U84PTwEe2afPsB6oMReA" presentationName="PMD" briefDescription="Ferramenta para verificação estatica de código-fonte." examples="_-Tv9IPTwEe2afPsB6oMReA">
+            <methodElementProperty xmi:id="_DzGhwPTxEe2afPsB6oMReA" name="me_edited" value="true"/>
+            <presentation xmi:id="-qWbh0tR0oTrennNaulC4wQ" href="uma://-qWbh0tR0oTrennNaulC4wQ#-qWbh0tR0oTrennNaulC4wQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Example" xmi:id="_-Tv9IPTwEe2afPsB6oMReA" name="guia_pmd" guid="_-Tv9IPTwEe2afPsB6oMReA" presentationName="Guia - PMD" briefDescription="Guia para a instalação, configuração e utilização da ferramenta PMD.">
+            <methodElementProperty xmi:id="_DzTWEPTxEe2afPsB6oMReA" name="me_edited" value="true"/>
+            <presentation xmi:id="-V4bxOti5BaMR0ywlE0U8rw" href="uma://-V4bxOti5BaMR0ywlE0U8rw#-V4bxOti5BaMR0ywlE0U8rw"/>
           </contentElements>
         </childPackages>
       </childPackages>
