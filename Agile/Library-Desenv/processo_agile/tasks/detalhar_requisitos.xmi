@@ -114,11 +114,47 @@
     estimativa dos mesmos.&#xD;
 &lt;/p>&#xD;
 &lt;p>&#xD;
+    Registre todos os requisitos encontrados no &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../processo_agile/workproducts/documento_de_requisitos_C92C31BF.html&quot;&#xD;
+    guid=&quot;_rWqcIPSwEe2Zcq5OPQAK4w&quot;>Documento de Requisitos&lt;/a>, categorizando cada um e registrando também possíveis&#xD;
+    dependências entre os mesmos. Registre também quais requisitos possuem uma função de Qualidade, ou seja, quais deles&#xD;
+    existem para &quot;melhorar&quot; a experiência do usuário e do produto final, mas não são necessários para solucionar os&#xD;
+    problemas do cliente.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
     Para verificar a completude&amp;nbsp;e normalizar os requisitos utilize a técnica INVEST, ver&amp;nbsp;&lt;a class=&quot;elementLink&quot;&#xD;
     href=&quot;./../../processo_agile/guidances/guidelines/guia_invest_4C58FC06.html&quot; guid=&quot;_97ZYwLWCEeqIE8PTmZnm3A&quot;>Guia -&#xD;
     INVEST&lt;/a>.&#xD;
 &lt;/p>&#xD;
 &lt;br /></sectionDescription>
+  </sections>
+  <sections xmi:id="_k8buMPSxEe2Zcq5OPQAK4w" name="Analisar Requisitos" guid="_k8buMPSxEe2Zcq5OPQAK4w">
+    <sectionDescription>&lt;p>&#xD;
+    Utilizando o &lt;a class=&quot;elementLink&quot; href=&quot;./../../processo_agile/workproducts/documento_de_requisitos_C92C31BF.html&quot;&#xD;
+    guid=&quot;_rWqcIPSwEe2Zcq5OPQAK4w&quot;>Documento de Requisitos&lt;/a>, deve-se analisar cada requisito registrado. Deve-se&#xD;
+    avaliar, um por um, se o requisito realmente atende as necessidades do cliente, seus objetivos, ou se cumpre uma&#xD;
+    funcção necessária ao sistema. Caso não seja identificada nenuma necessidade, um requisito pode ser alterado ou&#xD;
+    deletado.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Caso seja identificado necessidade de um novo requisito, ainda não registrado, deve-se então levantar e registrar um&#xD;
+    novo requisito&amp;nbsp;cumpra com&amp;nbsp;essa necessidade, bem como requisitos implícitos ao mesmo.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="__h2GkPSxEe2Zcq5OPQAK4w" name="Equilibrar Requisitos" guid="__h2GkPSxEe2Zcq5OPQAK4w">
+    <sectionDescription>&lt;p>&#xD;
+    Caso seja identificado requisitos de qualidade com grande custo para desenvolvimento, mas poucos benefícios ao produto&#xD;
+    final, o cliente pode ser consultado&amp;nbsp;quanto a realização de possíveis alterações.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Da mesma forma, caso esse requisito esteja em conflito com as limitações do sistema, identificadas por meio dos&#xD;
+    protótipos e modelos de análise, é possível conversar com o cliente sobre a completa remoção desse requisito de&#xD;
+    qualidade, ou ao menos a alteração de algum requisito não funcional que crie essa limitação, se houver.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Atualize o &lt;a class=&quot;elementLink&quot; href=&quot;./../../processo_agile/workproducts/documento_de_requisitos_C92C31BF.html&quot;&#xD;
+    guid=&quot;_rWqcIPSwEe2Zcq5OPQAK4w&quot;>Documento de Requisitos&lt;/a>&amp;nbsp;conforme as alterações realizadas.&#xD;
+&lt;/p></sectionDescription>
   </sections>
   <sections xmi:id="_C0lWoGaXEeeSdMzcHvBvqg" name="Aprovar requisitos" guid="_C0lWoGaXEeeSdMzcHvBvqg">
     <sectionDescription>&lt;p>&#xD;
