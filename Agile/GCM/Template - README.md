@@ -1,5 +1,7 @@
 # TÍTULO DO PROJETO
 
+## Versão <x.x.x>
+
 <style>
     html {
         text-align: justify;
