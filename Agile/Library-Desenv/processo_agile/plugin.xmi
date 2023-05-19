@@ -241,7 +241,7 @@
             <methodElementProperty xmi:id="_20-1wGfCEee98KTxJdQ4aA" name="me_edited" value="true"/>
             <presentation xmi:id="-bhl5FMevI0hHX_TjDVLXkQ" href="uma://-bhl5FMevI0hHX_TjDVLXkQ#-bhl5FMevI0hHX_TjDVLXkQ"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_Gtf-4GfJEee98KTxJdQ4aA" name="reuniao_revisao_sprint" guid="_Gtf-4GfJEee98KTxJdQ4aA" presentationName="Reunião de Revisão do Sprint (Sprint Retrospective)" briefDescription="Reunião para verificar a qualidade do produto e do processo. " performedBy="_Zj1nYE0dEeeZC78fRt21fQ _VUDXwE0eEeeZC78fRt21fQ _0sP_IE0dEeeZC78fRt21fQ" mandatoryInput="_nxoHIGfJEee98KTxJdQ4aA" output="_LKKrgGiaEeeubPDbByZ39Q _A6CUQAXyEeixob1xXf1D3w">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_Gtf-4GfJEee98KTxJdQ4aA" name="reuniao_revisao_sprint" guid="_Gtf-4GfJEee98KTxJdQ4aA" presentationName="Reunião de Revisão do Sprint (Sprint Retrospective)" briefDescription="Reunião para verificar a qualidade do produto e do processo. " guidelines="_ekS9gO0IEe28ub4xPlWhiw _-zh9wO0LEe28ub4xPlWhiw" examples="_-Tv9IPTwEe2afPsB6oMReA" performedBy="_Zj1nYE0dEeeZC78fRt21fQ _VUDXwE0eEeeZC78fRt21fQ _0sP_IE0dEeeZC78fRt21fQ _03RXsO0FEe28ub4xPlWhiw" mandatoryInput="_nxoHIGfJEee98KTxJdQ4aA _2zmjgGcDEeelx-d4QgVk5A" output="_LKKrgGiaEeeubPDbByZ39Q _A6CUQAXyEeixob1xXf1D3w _2zmjgGcDEeelx-d4QgVk5A" toolMentors="_82U84PTwEe2afPsB6oMReA">
             <methodElementProperty xmi:id="_Yfzi4GfJEee98KTxJdQ4aA" name="me_edited" value="true"/>
             <presentation xmi:id="-AuI9F0qrvZD27mT1IKvz_w" href="uma://-AuI9F0qrvZD27mT1IKvz_w#-AuI9F0qrvZD27mT1IKvz_w"/>
           </contentElements>
@@ -563,7 +563,7 @@
             <methodElementProperty xmi:id="_zEKpEO0KEe28ub4xPlWhiw" name="me_edited" value="true"/>
             <presentation xmi:id="-AAYKxgTq2ubHq5Xx2qnPig" href="uma://-AAYKxgTq2ubHq5Xx2qnPig#-AAYKxgTq2ubHq5Xx2qnPig"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_-zh9wO0LEe28ub4xPlWhiw" name="guia_selec_prod_trabalhos" guid="_-zh9wO0LEe28ub4xPlWhiw" presentationName="Guia de Seleção de Produtos de Trabalhos">
+          <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_-zh9wO0LEe28ub4xPlWhiw" name="guia_selec_prod_trabalhos" guid="_-zh9wO0LEe28ub4xPlWhiw" presentationName="Guia de Seleção de Produtos de Trabalhos" briefDescription="Esse guia tem o objetivo de definir os critérios a serem utilizados para a seleção dos produtos de trabalho a serem verificados. &#xD;&#xA;">
             <methodElementProperty xmi:id="_HoYekO0MEe28ub4xPlWhiw" name="me_edited" value="true"/>
             <presentation xmi:id="-SGdwI4EvkpISUlbaGKBPYw" href="uma://-SGdwI4EvkpISUlbaGKBPYw#-SGdwI4EvkpISUlbaGKBPYw"/>
           </contentElements>
