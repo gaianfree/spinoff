@@ -82,6 +82,7 @@
     <resourceDescriptors xmi:id="_IkF1EPSwEe2Zcq5OPQAK4w" id="-gSlCDjAiN6jz7ZcJFybJuQ" uri="guidances/templates/documento_de_requisiitos.xmi"/>
     <resourceDescriptors xmi:id="_eBtkgPcyEe2G_rdTDHDH1A" id="-R1_dF13zvd-f_RJmjwQJLQ" uri="tasks/gerenciar_requisitos.xmi"/>
     <resourceDescriptors xmi:id="_tl4nkPczEe2G_rdTDHDH1A" id="-Itk2TbxOW55N8liMj2SgKA" uri="tasks/controlar_mudanças.xmi"/>
+    <resourceDescriptors xmi:id="_V2XsAPc4Ee2G_rdTDHDH1A" id="-jqzGmTJC__o3_KbZXKJrzQ" uri="guidances/templates/template_gerenciamento_de_requisitos.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:MethodPlugin xmi:id="_p8a8ME0ZEeeZC78fRt21fQ" name="processo_agile" guid="_p8a8ME0ZEeeZC78fRt21fQ" presentationName="Processo Agil ADS" briefDescription="Processo customizado para o curso de ADS, baseado em práticas de métodos ágeis." authors="Edson Murakami" changeDate="2017-06-09T10:45:57.957-0300" version="1.0">
     <methodElementProperty xmi:id="_p9ZzoE0ZEeeZC78fRt21fQ" name="plugin_synFree" value="true"/>
@@ -482,7 +483,7 @@
             <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_rWqcIPSwEe2Zcq5OPQAK4w" name="documento_de_requisitos" guid="_rWqcIPSwEe2Zcq5OPQAK4w" presentationName="Documento de Requisitos" briefDescription="Documentação de todas as necessidades e objetivos do Cliente, Casos de Uso, Cenários e todos os requisitos funcionais e não-funcionais necessários, de forma que possam ser classificados e analizados." templates="_rt9XQPSvEe2Zcq5OPQAK4w">
               <methodElementProperty xmi:id="_Kb_8cPSxEe2Zcq5OPQAK4w" name="me_edited" value="true"/>
             </contentElements>
-            <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_BUN6wPcxEe2G_rdTDHDH1A" name="gerenciar_requisitos" guid="_BUN6wPcxEe2G_rdTDHDH1A" presentationName="Gerenciar Requisitos" briefDescription="Essa tarefa envolve identificar, documentar, rastrear e controlar as necessidades dos usuários finais em relação ao software. É garantir que as expectativas sejam claramente capturadas, priorizadas e rastreadas ao longo do projeto para garantir o desenvolvimento de um software que atenda aos requisitos definidos." performedBy="_Zj1nYE0dEeeZC78fRt21fQ" additionallyPerformedBy="_jg34QE0dEeeZC78fRt21fQ _VUDXwE0eEeeZC78fRt21fQ">
+            <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_BUN6wPcxEe2G_rdTDHDH1A" name="gerenciar_requisitos" guid="_BUN6wPcxEe2G_rdTDHDH1A" presentationName="Gerenciar Requisitos" briefDescription="Essa tarefa envolve identificar, documentar, rastrear e controlar as necessidades dos usuários finais em relação ao software. É garantir que as expectativas sejam claramente capturadas, priorizadas e rastreadas ao longo do projeto para garantir o desenvolvimento de um software que atenda aos requisitos definidos." performedBy="_Zj1nYE0dEeeZC78fRt21fQ" output="_tl0WIPczEe2G_rdTDHDH1A" additionallyPerformedBy="_jg34QE0dEeeZC78fRt21fQ _VUDXwE0eEeeZC78fRt21fQ">
               <methodElementProperty xmi:id="_7EL_wPczEe2G_rdTDHDH1A" name="me_edited" value="true"/>
               <presentation xmi:id="-R1_dF13zvd-f_RJmjwQJLQ" href="uma://-R1_dF13zvd-f_RJmjwQJLQ#-R1_dF13zvd-f_RJmjwQJLQ"/>
             </contentElements>
@@ -490,8 +491,12 @@
               <methodElementProperty xmi:id="_6y3mQPczEe2G_rdTDHDH1A" name="me_edited" value="true"/>
               <presentation xmi:id="-Itk2TbxOW55N8liMj2SgKA" href="uma://-Itk2TbxOW55N8liMj2SgKA#-Itk2TbxOW55N8liMj2SgKA"/>
             </contentElements>
-            <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_tl0WIPczEe2G_rdTDHDH1A" name="plano_de_gerenciamento_dos_requisitos" guid="_tl0WIPczEe2G_rdTDHDH1A" presentationName="Plano de Gerenciamento de Requisitos" briefDescription="O Plano de gerenciamento dos requisitos é desenvolvido e aprovado durante a fase de planejamento do&#xD;&#xA;projeto e é um plano auxiliar do Plano de Gerenciamento de Projetos.&#xD;&#xA;Tem como objetivo documentar como os requisitos serão analisados, documentados e gerenciados do início&#xD;&#xA;ao fim do projeto.">
+            <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_tl0WIPczEe2G_rdTDHDH1A" name="plano_de_gerenciamento_dos_requisitos" guid="_tl0WIPczEe2G_rdTDHDH1A" presentationName="Plano de Gerenciamento de Requisitos" briefDescription="O Plano de gerenciamento dos requisitos é desenvolvido e aprovado durante a fase de planejamento do&#xD;&#xA;projeto e é um plano auxiliar do Plano de Gerenciamento de Projetos.&#xD;&#xA;Tem como objetivo documentar como os requisitos serão analisados, documentados e gerenciados do início&#xD;&#xA;ao fim do projeto." templates="_BS62EPc4Ee2G_rdTDHDH1A">
               <methodElementProperty xmi:id="_6UjSkPczEe2G_rdTDHDH1A" name="me_edited" value="true"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_BS62EPc4Ee2G_rdTDHDH1A" name="template_gerenciamento_de_requisitos" guid="_BS62EPc4Ee2G_rdTDHDH1A" presentationName="Template - Gerenciamento de Requisitos">
+              <methodElementProperty xmi:id="_V2SzgPc4Ee2G_rdTDHDH1A" name="me_edited" value="true"/>
+              <presentation xmi:id="-jqzGmTJC__o3_KbZXKJrzQ" href="uma://-jqzGmTJC__o3_KbZXKJrzQ#-jqzGmTJC__o3_KbZXKJrzQ"/>
             </contentElements>
           </childPackages>
           <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_qjTuUE0fEeeZC78fRt21fQ" name="teste" guid="_qjTuUE0fEeeZC78fRt21fQ" presentationName="Teste" briefDescription="Disciplina de teste, verificação e validação do que foi implementado em relação aos requisitos definidos.">
