@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Itk2TbxOW55N8liMj2SgKA" name=",_eBAZ4PcyEe2G_rdTDHDH1A" guid="-Itk2TbxOW55N8liMj2SgKA">
+  <sections xmi:id="_szPfIPcyEe2G_rdTDHDH1A" name="Comunicar Mudança" guid="_szPfIPcyEe2G_rdTDHDH1A">
+    <sectionDescription>Informar todas as partes interessadas sobre a mudança planejada. Isso pode&lt;br />&#xD;
+incluir usuários, membros da equipe, gerentes ou outros envolvidos no sistema.</sectionDescription>
+  </sections>
+  <sections xmi:id="_vp0DoPcyEe2G_rdTDHDH1A" name="Implementar Mudança" guid="_vp0DoPcyEe2G_rdTDHDH1A">
+    <sectionDescription>Realizar a mudança de acordo com o plano estabelecido.&lt;br />&#xD;
+Isso pode envolver a instalação de atualizações de software, a modificação de&lt;br />&#xD;
+configurações, a integração de novos componentes ou qualquer outra ação necessária para&lt;br />&#xD;
+implementar a mudança.</sectionDescription>
+  </sections>
+  <sections xmi:id="_zVxYAPcyEe2G_rdTDHDH1A" name="Testar e Validar" guid="_zVxYAPcyEe2G_rdTDHDH1A">
+    <sectionDescription>Realizar testes para verificar se a mudança foi implementada&lt;br />&#xD;
+corretamente e se atende aos requisitos definidos. Isso pode incluir testes de unidade, testes&lt;br />&#xD;
+de integração, testes de sistema e qualquer outra forma de validação necessária.</sectionDescription>
+  </sections>
+  <sections xmi:id="_1guMoPcyEe2G_rdTDHDH1A" name="Atualizar documentação" guid="_1guMoPcyEe2G_rdTDHDH1A">
+    <sectionDescription>Após a implementação bem-sucedida da mudança,&lt;br />&#xD;
+atualizar a documentação relevante, como manuais do usuário, documentação técnica ou&lt;br />&#xD;
+registros de configuração.</sectionDescription>
+  </sections>
+  <sections xmi:id="_5Sl7wPcyEe2G_rdTDHDH1A" name="Monitorar e Controlar" guid="_5Sl7wPcyEe2G_rdTDHDH1A">
+    <sectionDescription>Monitorar o sistema após a mudança para garantir que ele&lt;br />&#xD;
+esteja funcionando corretamente e que todos os impactos esperados tenham sido&lt;br />&#xD;
+alcançados. Se necessário, faça ajustes adicionais.</sectionDescription>
+  </sections>
+</org.eclipse.epf.uma:TaskDescription>

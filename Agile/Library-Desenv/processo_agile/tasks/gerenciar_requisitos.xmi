@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-R1_dF13zvd-f_RJmjwQJLQ" name=",_BUN6wPcxEe2G_rdTDHDH1A" guid="-R1_dF13zvd-f_RJmjwQJLQ">
+  <sections xmi:id="_khdroPcxEe2G_rdTDHDH1A" name="Estabelecer um processo de gerenciamento de mudanças de requisitos" guid="_khdroPcxEe2G_rdTDHDH1A">
+    <sectionDescription>definir um processo&lt;br />&#xD;
+formal para gerenciar as mudanças nos requisitos do projeto, incluindo quem pode propor&lt;br />&#xD;
+mudanças, como as mudanças serão avaliadas e aprovadas, e como as mudanças serão&lt;br />&#xD;
+implementadas e comunicadas.</sectionDescription>
+  </sections>
+  <sections xmi:id="_nUDvEPcxEe2G_rdTDHDH1A" name="Monitorar e medir resultados das mudanças" guid="_nUDvEPcxEe2G_rdTDHDH1A">
+    <sectionDescription>monitorar e medir os resultados das mudanças&lt;br />&#xD;
+implementadas e avaliar se elas atenderam aos objetivos do projeto e do negócio.</sectionDescription>
+  </sections>
+  <sections xmi:id="_ucGv0PcxEe2G_rdTDHDH1A" name="Estabelecer mecanismos" guid="_ucGv0PcxEe2G_rdTDHDH1A">
+    <sectionDescription>Estabelecer mecanismos&amp;nbsp;para garantir que todas as mudanças nos requisitos sejam avaliadas&lt;br />&#xD;
+quanto ao seu impacto em outros requisitos e produtos de trabalho.</sectionDescription>
+  </sections>
+  <sections xmi:id="_xcmsYPcxEe2G_rdTDHDH1A" name="Analise periodica" guid="_xcmsYPcxEe2G_rdTDHDH1A">
+    <sectionDescription>Estabelecer uma equipe de revisão para analisar periodicamente a rastreabilidade dos requisitos.</sectionDescription>
+  </sections>
+  <sections xmi:id="_1MVGcPcxEe2G_rdTDHDH1A" name="Escolher Ferramentas" guid="_1MVGcPcxEe2G_rdTDHDH1A">
+    <sectionDescription>Utilizar ferramentas de revisão e verificação automatizadas para identificar inconsistências e&lt;br />&#xD;
+problemas nos artefatos do projeto.</sectionDescription>
+  </sections>
+  <sections xmi:id="_6f544PcxEe2G_rdTDHDH1A" name="Estabelecer Equipe de Revisão" guid="_6f544PcxEe2G_rdTDHDH1A">
+    <sectionDescription>Estabelecer uma equipe de revisão para analisar periodicamente as inconsistências entre os&lt;br />&#xD;
+artefatos do projeto e os requisitos.</sectionDescription>
+  </sections>
+</org.eclipse.epf.uma:TaskDescription>
