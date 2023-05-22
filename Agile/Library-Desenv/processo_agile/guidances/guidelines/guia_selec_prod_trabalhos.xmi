@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-SGdwI4EvkpISUlbaGKBPYw" name="guia_selec_prod_trabalhos,_-zh9wO0LEe28ub4xPlWhiw" guid="-SGdwI4EvkpISUlbaGKBPYw" changeDate="2023-05-18T20:16:41.188-0300">
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-SGdwI4EvkpISUlbaGKBPYw" name="guia_selec_prod_trabalhos,_-zh9wO0LEe28ub4xPlWhiw" guid="-SGdwI4EvkpISUlbaGKBPYw" changeDate="2023-05-21T12:00:29.609-0300">
   <mainDescription>&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot;>&#xD;
     &lt;font size=&quot;3&quot;>&lt;strong>Guia de Seleção de Produtos de Trabalho&lt;/strong>&lt;/font>&#xD;
 &lt;/p>&#xD;
@@ -146,10 +146,20 @@
     &lt;/li>&#xD;
 &lt;/ul>&#xD;
 &lt;br />&#xD;
+&lt;br />&#xD;
 &lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.38&quot;>&#xD;
     O &lt;a class=&quot;elementLink&quot; href=&quot;./../../../processo_agile/workproducts/checklist_projeto_D7299165.html&quot;&#xD;
     guid=&quot;_A6CUQAXyEeixob1xXf1D3w&quot;>Checklist de Projeto&lt;/a>&amp;nbsp;já prescreve a verificação de alguns&amp;nbsp;produtos de&#xD;
     trabalho importantes, sendo a utilização desse guia necessaria&amp;nbsp;para estudar a &lt;strong>viabilidade&lt;/strong> e&#xD;
-    &lt;strong>necessidade&lt;/strong> de verificar produtos de trabalho adicionais.&#xD;
+    &lt;strong>necessidade&lt;/strong> de verificar artefatos adicionais.&#xD;
+&lt;/p>&#xD;
+&lt;br />&#xD;
+&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.38&quot;>&#xD;
+    Caso um produto de trabalho não previsto no SpinOff seja selecionado para verificação, devem-se criar itens de&#xD;
+    verificação adicionais na &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../processo_agile/workproducts/checklist_projeto_D7299165.html&quot; guid=&quot;_A6CUQAXyEeixob1xXf1D3w&quot;>Checklist&#xD;
+    de Projeto&lt;/a>, seguindo o Guia de&amp;nbsp;&lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../processo_agile/guidances/guidelines/def_criterios_checklist_92C6E57E.html&quot;&#xD;
+    guid=&quot;_ekS9gO0IEe28ub4xPlWhiw&quot;>Definição de critérios de avaliação para o Checklist de Verificação de Projetos.&lt;/a>&#xD;
 &lt;/p></mainDescription>
 </org.eclipse.epf.uma:ContentDescription>
