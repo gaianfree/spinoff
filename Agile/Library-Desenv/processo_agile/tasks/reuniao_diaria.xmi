@@ -1,24 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-7sJfpoGLleCyQlPktz3cNA" name=",_-ArjQGfJEee98KTxJdQ4aA" guid="-7sJfpoGLleCyQlPktz3cNA" changeDate="2023-05-15T16:08:59.074-0300">
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-7sJfpoGLleCyQlPktz3cNA" name=",_-ArjQGfJEee98KTxJdQ4aA" guid="-7sJfpoGLleCyQlPktz3cNA" changeDate="2023-05-22T22:15:35.556-0300">
   <mainDescription>&lt;p&#xD;
 style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: normal; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
-    &lt;span&#xD;
-    style='FONT-SIZE: 16px; FONT-FAMILY: &quot;gg sans&quot;, &quot;Noto Sans&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; TEXT-ALIGN: left; ORPHANS: 2; WIDOWS: 2; DISPLAY: inline !important; LETTER-SPACING: normal; TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; text-decoration-thickness: initial'>&#xD;
-    &lt;font size=&quot;2&quot;>Recomenda-se que o&lt;/font>&lt;/span> &lt;font face=&quot;Arial&quot;>&lt;font size=&quot;2&quot;>&lt;strong>&lt;a class=&quot;elementLink&quot;&#xD;
+    &lt;font size=&quot;2&quot;>Recomenda-se que o&lt;/font> &lt;a class=&quot;elementLink&quot;&#xD;
     href=&quot;./../../processo_agile/roles/time_desenvolvimento_837780B8.html&quot; guid=&quot;_VUDXwE0eEeeZC78fRt21fQ&quot;>Time de&#xD;
-    Desenvolvimento&lt;/a>&amp;nbsp;&lt;/strong>realize Reuniões Diárias em local e horário pré-determinado. O ideal é que sejam&#xD;
-    feitas no início do expediente, uma vez que ela determina as atividades do dia de trabalho.&lt;/font>&lt;/font>&#xD;
+    Desenvolvimento&lt;/a>&lt;font size=&quot;2&quot;>&amp;nbsp;realize Reuniões Diárias em local e horário pré-determinado. O ideal é que&#xD;
+    sejam feitas no início do expediente, uma vez que ela determina as atividades do dia de trabalho.&lt;/font>&#xD;
 &lt;/p></mainDescription>
   <sections xmi:id="_DpqFQPNZEe2FY6-xJTjzdw" name="Garantir a presença dos interessados no projeto" guid="_DpqFQPNZEe2FY6-xJTjzdw">
-    <sectionDescription>Todos os membros do time devem participar da Reunião Diária informando a situação atual do projeto. Outras pessoas como, a&#xD;
-gerência de um departamento, um vendendor ou um desenvolvedor de fora do time, podem estar presentes, mas apenas como&#xD;
-ouvintes.</sectionDescription>
+    <sectionDescription>Todos os membros do&amp;nbsp;&lt;a class=&quot;elementLink&quot; href=&quot;./../../processo_agile/roles/time_desenvolvimento_837780B8.html&quot;&#xD;
+guid=&quot;_VUDXwE0eEeeZC78fRt21fQ&quot;>Time de Desenvolvimento&lt;/a> devem participar da Reunião Diária informando a situação atual&#xD;
+do projeto. Outras pessoas como, a gerência de um departamento, um vendendor ou um desenvolvedor de fora do time, podem&#xD;
+estar presentes, mas apenas como ouvintes.</sectionDescription>
   </sections>
   <sections xmi:id="_TMb7oO5AEe2fTLbRRCwmEA" name="Atualizar o quadro de tarefas" guid="_TMb7oO5AEe2fTLbRRCwmEA">
     <sectionDescription>&lt;p>&#xD;
-    O Quadro de Tarefas exibe todo o trabalho que o time está desenvolvendo durante um Sprint e é sempre revisado na&#xD;
-    reunião diária (Daily Scrum). Como o objetivo da Reunião Diária é discutir pontualmente o andamento do projeto, as&#xD;
-    dúvidas são deixadas para um momento posterior à essa reunião. Aqui, faremos três perguntas:&#xD;
+    O Quadro de Tarefas exibe todo o trabalho que o &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../processo_agile/roles/time_desenvolvimento_837780B8.html&quot; guid=&quot;_VUDXwE0eEeeZC78fRt21fQ&quot;>Time de&#xD;
+    Desenvolvimento&lt;/a> está desenvolvendo durante um Sprint e é sempre revisado na reunião diária (Daily Scrum). Como o&#xD;
+    objetivo da Reunião Diária é discutir pontualmente o andamento do projeto, as dúvidas são deixadas para um momento&#xD;
+    posterior à essa reunião. Aqui, faremos três perguntas:&#xD;
 &lt;/p>&#xD;
 &lt;p>&#xD;
     1. O que você fez ontem?&lt;br />&#xD;
@@ -34,8 +35,8 @@ ouvintes.</sectionDescription>
     <sectionDescription>Caso&amp;nbsp;hajam&amp;nbsp;problemas identificados que estão impedindo a realização de alguma tarefa, o&amp;nbsp;&lt;a&#xD;
 class=&quot;elementLink&quot; href=&quot;./../../processo_agile/roles/scrum_master_BEC8226F.html&quot; guid=&quot;_Zj1nYE0dEeeZC78fRt21fQ&quot;>Scrum&#xD;
 Master&lt;/a>, se não conseguir&amp;nbsp;solucioná-los diretamente,&amp;nbsp;deve&amp;nbsp;garantir que alguém do time solucione o&#xD;
-problema e orientar que os problemas e suas soluções&amp;nbsp;sejam&amp;nbsp;documentados na &lt;a class=&quot;elementLinkWithType&quot;&#xD;
-href=&quot;./../../processo_agile/workproducts/planilha_pcp_EFCEC02C.html&quot; guid=&quot;_U0xmcGZnEee1huV63HakZg&quot;>Artifact: Planilha de&#xD;
-Planejamento e Controle do Projeto&lt;/a>.</sectionDescription>
+problema e orientar que os problemas e suas soluções&amp;nbsp;sejam&amp;nbsp;documentados na &lt;a class=&quot;elementLink&quot;&#xD;
+href=&quot;./../../processo_agile/workproducts/planilha_pcp_EFCEC02C.html&quot; guid=&quot;_U0xmcGZnEee1huV63HakZg&quot;>Planilha de&#xD;
+Planejamento e Controle do Projeto&lt;/a></sectionDescription>
   </sections>
 </org.eclipse.epf.uma:TaskDescription>

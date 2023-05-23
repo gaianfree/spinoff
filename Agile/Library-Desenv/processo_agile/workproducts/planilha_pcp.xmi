@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-3MyKmkZj3qeMxeHs0YVqCQ" name="new_artifact,_U0xmcGZnEee1huV63HakZg" guid="-3MyKmkZj3qeMxeHs0YVqCQ" changeDate="2017-07-11T15:36:43.249-0300">
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-3MyKmkZj3qeMxeHs0YVqCQ" name="new_artifact,_U0xmcGZnEee1huV63HakZg" guid="-3MyKmkZj3qeMxeHs0YVqCQ" changeDate="2023-05-22T22:24:09.422-0300">
   <mainDescription>&lt;p>&#xD;
-    A planilha de planejamento e controle do projeto permite ao Scrum Master e ao Time criar um plano, estimar esforço e&#xD;
-    prazo e custo e preço, além de monitorar o andamento do projeto e dos Sprints.&#xD;
+    A planilha de planejamento e controle do projeto permite ao &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../processo_agile/roles/scrum_master_BEC8226F.html&quot; guid=&quot;_Zj1nYE0dEeeZC78fRt21fQ&quot;>Scrum Master&lt;/a>&amp;nbsp;e&#xD;
+    ao &lt;a class=&quot;elementLink&quot; href=&quot;./../../processo_agile/roles/time_desenvolvimento_837780B8.html&quot;&#xD;
+    guid=&quot;_VUDXwE0eEeeZC78fRt21fQ&quot;>Time de Desenvolvimento&lt;/a> criar um plano, estimar esforço e prazo e custo e preço,&#xD;
+    além de monitorar o andamento do projeto e dos Sprints.&#xD;
 &lt;/p>&#xD;
 &lt;p>&#xD;
     Ao final, pode-se ainda obter dados estatísticos para melhorar continuamente o processo.&#xD;

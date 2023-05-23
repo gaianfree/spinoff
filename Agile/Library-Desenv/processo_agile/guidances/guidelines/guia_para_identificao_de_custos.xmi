@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-siNjV2jMiy53qOvdrg6xng" name="new_guideline,_QGvPoO44Ee2fTLbRRCwmEA" guid="-siNjV2jMiy53qOvdrg6xng" changeDate="2023-05-09T04:11:08.255-0300">
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-siNjV2jMiy53qOvdrg6xng" name="new_guideline,_QGvPoO44Ee2fTLbRRCwmEA" guid="-siNjV2jMiy53qOvdrg6xng" changeDate="2023-05-22T22:26:04.172-0300">
   <mainDescription>&lt;p>&#xD;
-    &lt;strong>Lista para Identificação de Riscos&lt;/strong>&#xD;
+    &lt;strong>Lista para Identificação de Custos&lt;/strong>&#xD;
 &lt;/p>&#xD;
 &lt;p>&#xD;
     &lt;b id=&quot;docs-internal-guid-3a484cce-7fff-fce9-07dd-d2dd36209a86&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
@@ -9,26 +9,26 @@
     Este guia apresenta algumas categorizações de custos que podem auxiliar o time a identificar os custos mais comuns em&#xD;
     projetos de software. Elas são aqui representadas e agrupadas de acordo com as&lt;/span> &lt;span&#xD;
     style=&quot;FONT-SIZE: 10pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 700; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-    categorias de custos&lt;/span>&lt;span&#xD;
+    categorias de custos&lt;/span> &lt;span&#xD;
     style=&quot;FONT-SIZE: 10pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-    . Uma vez identificados os custos que compreendem o projeto, a equipe deve documentar e monitorar através da planilha&#xD;
-    de planejamento e controle do projeto.&lt;/span>&lt;/b>&#xD;
+    . Uma vez identificados os custos que compreendem o projeto, a equipe deve documentar e monitorar através da &lt;a&#xD;
+    class=&quot;elementLink&quot; href=&quot;./../../../processo_agile/workproducts/planilha_pcp_EFCEC02C.html&quot;&#xD;
+    guid=&quot;_U0xmcGZnEee1huV63HakZg&quot;>Planilha de Planejamento e Controle do Projeto&lt;/a>&lt;/span>&lt;/b>&#xD;
 &lt;/p>&#xD;
 &lt;b id=&quot;docs-internal-guid-1c31c8d5-7fff-ec00-3dcb-23141e45d5f1&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
 style=&quot;FONT-SIZE: 13.999pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 700; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-&lt;b id=&quot;docs-internal-guid-42aafbb3-7fff-3504-601d-acfb9183dc11&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;/b>&lt;/span>&lt;/b>&#xD;
+&lt;b id=&quot;docs-internal-guid-42aafbb3-7fff-3504-601d-acfb9183dc11&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;/b>&lt;/span>&lt;/b> &#xD;
 &lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 12pt; LINE-HEIGHT: 1.2&quot; dir=&quot;ltr&quot;>&#xD;
     &lt;b id=&quot;docs-internal-guid-1c31c8d5-7fff-ec00-3dcb-23141e45d5f1&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
     style=&quot;FONT-SIZE: 10pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 700; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
     Custos diretos:&lt;/span>&lt;/b>&#xD;
 &lt;/p>&#xD;
-&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 12pt; LINE-HEIGHT: 1.2&quot; dir=&quot;ltr&quot;>&#xD;
-    &amp;nbsp;&#xD;
-&lt;/p>&#xD;
+&lt;br style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 12pt; LINE-HEIGHT: 1.2&quot; dir=&quot;ltr&quot; />&#xD;
+&lt;br />&#xD;
 &lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot;>&#xD;
     &lt;span&#xD;
     style=&quot;FONT-SIZE: 10pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 700; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-    Custo de mão de obra&lt;/span>&lt;span&#xD;
+    Custo de mão de obra&lt;/span> &lt;span&#xD;
     style=&quot;FONT-SIZE: 10pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
     : este é o custo associado aos envolvidos no projeto, incluindo o time de desenvolvimento,scrum master, equipe de&#xD;
     teste, entre outros membros.&lt;/span>&#xD;
@@ -36,7 +36,7 @@ style=&quot;FONT-SIZE: 13.999pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT
 &lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot;>&#xD;
     &lt;span&#xD;
     style=&quot;FONT-SIZE: 10pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 700; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-    Custo de equipamentos&lt;/span>&lt;span&#xD;
+    Custo de equipamentos&lt;/span> &lt;span&#xD;
     style=&quot;FONT-SIZE: 10pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
     : este é o custo associado às necessidades de hardware, ferramentas e outras tecnologias necessárias para o&#xD;
     desenvolvimento do projeto.&lt;/span>&#xD;
@@ -44,14 +44,14 @@ style=&quot;FONT-SIZE: 13.999pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT
 &lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot;>&#xD;
     &lt;span&#xD;
     style=&quot;FONT-SIZE: 10pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 700; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-    Custo de serviços de terceiros&lt;/span>&lt;span&#xD;
+    Custo de serviços de terceiros&lt;/span> &lt;span&#xD;
     style=&quot;FONT-SIZE: 10pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
     : este é o custo associado a serviços de terceiros, como consultores, equipes de testes, entre outros.&lt;/span>&#xD;
 &lt;/p>&#xD;
 &lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot;>&#xD;
     &lt;span&#xD;
     style=&quot;FONT-SIZE: 10pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 700; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-    Custo de software&lt;/span>&lt;span&#xD;
+    Custo de software&lt;/span> &lt;span&#xD;
     style=&quot;FONT-SIZE: 10pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
     : este é o custo associado à softwares pagos necessários para desenvolvimento do projeto.&lt;/span>&#xD;
 &lt;/p>&#xD;
@@ -61,18 +61,23 @@ style=&quot;FONT-SIZE: 13.999pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT
     Custo de transporte:&lt;/span> &lt;span&#xD;
     style=&quot;FONT-SIZE: 10pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
     este é o custo associado a necessidades de transporte, que eventualmente a equipe pode ter, seja de pessoal ou de&#xD;
-    equipamentos.&lt;/span>&lt;br />&#xD;
+    equipamentos.&lt;/span>&#xD;
 &lt;/p>&#xD;
 &lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot;>&#xD;
-    &amp;nbsp;&#xD;
+    &lt;b id=&quot;docs-internal-guid-f0e73627-7fff-15b7-3020-29ad7e033700&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+    style=&quot;FONT-SIZE: 10pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 700; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    Custo de treinamento:&lt;/span> &lt;span&#xD;
+    style=&quot;FONT-SIZE: 10pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    Este é o custo de treinamento dos desenvolvedores, caso o projeto necessite de uma habilidade ou ferramenta&#xD;
+    desconhecida pela equipe.&lt;/span>&lt;/b>&#xD;
 &lt;/p>&#xD;
+&lt;br />&#xD;
 &lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot;>&#xD;
     &lt;span&#xD;
     style=&quot;FONT-SIZE: 10pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 700; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
     Custos indiretos:&lt;/span>&#xD;
 &lt;/p>&#xD;
 &lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot;>&#xD;
-    &amp;nbsp;&#xD;
 &lt;/p>&#xD;
 &lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot;>&#xD;
     &lt;span&#xD;
@@ -80,6 +85,14 @@ style=&quot;FONT-SIZE: 13.999pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT
     Custo de estrutura:&lt;/span> &lt;span&#xD;
     style=&quot;FONT-SIZE: 10pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
     este é o custo associado à alocação de recursos para o projeto, incluindo custo de espaço, energia elétrica, internet,&#xD;
-    telefonia, entre outros.&lt;/span>&#xD;
-&lt;/p></mainDescription>
+    telefonia, entre outros.&lt;/span>&lt;br />&#xD;
+    &lt;span&#xD;
+    style=&quot;FONT-SIZE: 10pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 700; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    Custo de retrabalho&lt;/span> &lt;span&#xD;
+    style=&quot;FONT-SIZE: 10pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    : é um custo que surge quando um trabalho precisa ser refeito ou corrigido devido a erros ou falhas. Isso pode incluir&#xD;
+    a correção de bugs, atualizações de software, e refatoração de código.&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;br class=&quot;Apple-interchange-newline&quot; />&#xD;
+&lt;br /></mainDescription>
 </org.eclipse.epf.uma:ContentDescription>
