@@ -84,6 +84,7 @@
     <resourceDescriptors xmi:id="_euza4OnHEe2ps_1KI6FM5w" id="-W6HsTDVmj2r5XiOjlEjwlA" uri="guidances/examples/guia_git.xmi"/>
     <resourceDescriptors xmi:id="_hSu6wenIEe2ps_1KI6FM5w" id="-hxd0-RowaLSG6rUOzS67Kw" uri="guidances/templates/template_estrutura_projeto_git.xmi"/>
     <resourceDescriptors xmi:id="_GdYjYO5yEe2xivWxnJFDIw" id="-b3Ltul_zXFS35b_AKJ3wKw" uri="guidances/templates/template_readme.xmi"/>
+    <resourceDescriptors xmi:id="_YldNcPlyEe2ZcuF5TdQPlA" id="-Z7DWLzGB63JZosLkLORr0A" uri="guidances/examples/guia_prioridades_mudancas.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:MethodPlugin xmi:id="_p8a8ME0ZEeeZC78fRt21fQ" name="processo_agile" guid="_p8a8ME0ZEeeZC78fRt21fQ" presentationName="Processo Agil ADS" briefDescription="Processo customizado para o curso de ADS, baseado em práticas de métodos ágeis." authors="Edson Murakami" changeDate="2017-06-09T10:45:57.957-0300" version="1.0">
     <methodElementProperty xmi:id="_p9ZzoE0ZEeeZC78fRt21fQ" name="plugin_synFree" value="true"/>
@@ -305,7 +306,7 @@
             <methodElementProperty xmi:id="_SL0bYmcQEeelx-d4QgVk5A" name="me_edited" value="true"/>
             <presentation xmi:id="-FbqTNaA80SGSTtEJFLQ9Yw" href="uma://-FbqTNaA80SGSTtEJFLQ9Yw#-FbqTNaA80SGSTtEJFLQ9Yw"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_QMPT0GcREeelx-d4QgVk5A" name="criar_ambiente_projeto" guid="_QMPT0GcREeelx-d4QgVk5A" presentationName="Criar Ambiente do Projeto" briefDescription="Esta tarefa tem o propósito de criar uma estrutura de arquivos padronizada e sob controle de versão, onde os artefatos de cada disciplina possam ser armazenados e controlados." guidelines="_kivfQKdcEeq1ProniyDKWg" examples="_SLKUEmcQEeelx-d4QgVk5A _SLKUEGcQEeelx-d4QgVk5A _WfR0sOnHEe2ps_1KI6FM5w" performedBy="_jg34QE0dEeeZC78fRt21fQ" mandatoryInput="_4myakGcSEeelx-d4QgVk5A" output="_uYnrgGcUEee6Z8sC_73hQw _LOUoYOnIEe2ps_1KI6FM5w" toolMentors="_cZf1IKc5EeqVVcbyjZLpiA _3tnwQOnEEe2ps_1KI6FM5w">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_QMPT0GcREeelx-d4QgVk5A" name="criar_ambiente_projeto" guid="_QMPT0GcREeelx-d4QgVk5A" presentationName="Criar Ambiente do Projeto" briefDescription="Esta tarefa tem o propósito de criar uma estrutura de arquivos padronizada e sob controle de versão, onde os artefatos de cada disciplina possam ser armazenados e controlados." guidelines="_kivfQKdcEeq1ProniyDKWg" examples="_SLKUEmcQEeelx-d4QgVk5A _SLKUEGcQEeelx-d4QgVk5A _WfR0sOnHEe2ps_1KI6FM5w" performedBy="_jg34QE0dEeeZC78fRt21fQ" mandatoryInput="_4myakGcSEeelx-d4QgVk5A" output="_uYnrgGcUEee6Z8sC_73hQw" toolMentors="_cZf1IKc5EeqVVcbyjZLpiA _3tnwQOnEEe2ps_1KI6FM5w">
             <methodElementProperty xmi:id="_TYWDcGcREeelx-d4QgVk5A" name="me_edited" value="true"/>
             <presentation xmi:id="-X2Mekdr5MSsDxN-Td-6wWw" href="uma://-X2Mekdr5MSsDxN-Td-6wWw#-X2Mekdr5MSsDxN-Td-6wWw"/>
           </contentElements>
@@ -363,6 +364,10 @@
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_RnztEO51Ee2xivWxnJFDIw" name="template_release_notes" guid="_RnztEO51Ee2xivWxnJFDIw" presentationName="Template Release Notes" briefDescription="Template Release Notes" templates="_UefxIOj1Ee2hBolVB8pExQ">
             <methodElementProperty xmi:id="_Soyo8O51Ee2xivWxnJFDIw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Example" xmi:id="_RTmJYPlyEe2ZcuF5TdQPlA" name="guia_prioridades_mudancas" guid="_RTmJYPlyEe2ZcuF5TdQPlA" presentationName="Guia - Priorização de solicitações de mudanças">
+            <methodElementProperty xmi:id="_YlY8APlyEe2ZcuF5TdQPlA" name="me_edited" value="true"/>
+            <presentation xmi:id="-Z7DWLzGB63JZosLkLORr0A" href="uma://-Z7DWLzGB63JZosLkLORr0A#-Z7DWLzGB63JZosLkLORr0A"/>
           </contentElements>
         </childPackages>
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_1wN08GY0Eee1huV63HakZg" name="desenvolvimento" guid="_1wN08GY0Eee1huV63HakZg" presentationName="Desenvolvimento" briefDescription="Desenvolvimento">

@@ -1,23 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-_qfPyXeToXlV9yJk8pfD1g" name=",_PqTZgGcTEeelx-d4QgVk5A" guid="-_qfPyXeToXlV9yJk8pfD1g">
   <sections xmi:id="_VW8zQGcTEeelx-d4QgVk5A" name="Analisar Impacto da Mudança" guid="_VW8zQGcTEeelx-d4QgVk5A">
-    <sectionDescription>&lt;p>&#xD;
+    <sectionDescription>&lt;p style=&quot;MARGIN-RIGHT: 0px&quot; dir=&quot;ltr&quot;>&#xD;
     O Owner pode solicitar mudança, que pode impactar em custo e prazo, desse modo é necessário analisar os impactos no&#xD;
     projeto.&#xD;
 &lt;/p>&#xD;
 &lt;p>&#xD;
-    Para isso o Desenvolvedor deve criar uma requisição de mudanças, seguindo as&amp;nbsp;orientações contidas no próprio&#xD;
-    template da&amp;nbsp;&lt;strong>&lt;a class=&quot;elementLink&quot; href=&quot;./../../processo_agile/workproducts/rm_5A6327CB.html&quot;&#xD;
-    guid=&quot;_I3MuAGcTEeelx-d4QgVk5A&quot;>Requisição de Mudanças&lt;/a>&lt;/strong>.&#xD;
+    Para isso o Desenvolvedor deve criar uma requisição de mudanças, seguindo as&amp;nbsp;orientações contidas no próprio &lt;a&#xD;
+    class=&quot;elementLink&quot; href=&quot;./../../processo_agile/guidances/templates/template_rm_4D85F4C6.html&quot;&#xD;
+    guid=&quot;_5B4qAGf1EeeJroYH56TLOQ&quot;>Template da Requisição de Mudança&lt;/a>.&#xD;
 &lt;/p>&#xD;
 &lt;p>&#xD;
     No terceiro tópico desse arquivo (Análise de Impacto), é necessário&amp;nbsp;descrever com mais detalhes os custos, prazos,&#xD;
     esforços e entre outros. Para tal, o time de desenvolvimento deve se reunir para definir quais mudanças se encaixam na&#xD;
-    categorização de prioridades, constituída por 3 categorias: Padrão (baixo risco e compreensão), Normal (certo risco de&#xD;
-    incerteza) e Emergencial (mudança obrigatório para a continuidade do projeto). Uma vez acordado entre todos quais tipos&#xD;
-    de mudanças se encaixam em cada categoria, deve ser informada a categoria desta no arquivo de&amp;nbsp;&lt;strong>&lt;a&#xD;
+    categorização de prioridades, explicada no &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../processo_agile/guidances/examples/guia_prioridades_mudancas_21CEBCF.html&quot;&#xD;
+    guid=&quot;_RTmJYPlyEe2ZcuF5TdQPlA&quot;>Guia - Priorização de solicitações de mudanças&lt;/a>. Uma vez acordado entre todos quais&#xD;
+    tipos de mudanças se encaixam em cada categoria, deve ser informada a categoria desta no arquivo de&amp;nbsp;&lt;a&#xD;
     class=&quot;elementLink&quot; href=&quot;./../../processo_agile/workproducts/rm_5A6327CB.html&quot;&#xD;
-    guid=&quot;_I3MuAGcTEeelx-d4QgVk5A&quot;>Requisição de Mudanças&lt;/a>.&lt;/strong>&#xD;
+    guid=&quot;_I3MuAGcTEeelx-d4QgVk5A&quot;>Requisição de Mudanças&lt;/a>.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;img style=&quot;MARGIN: auto&quot; alt=&quot;&quot; src=&quot;resources/categorizacao.png&quot; width=&quot;600&quot; height=&quot;332&quot; />&#xD;
 &lt;/p></sectionDescription>
   </sections>
   <sections xmi:id="_3TMPQGcTEeelx-d4QgVk5A" name="Atualizar a Planilha de Planejamento e Controle" guid="_3TMPQGcTEeelx-d4QgVk5A">

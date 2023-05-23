@@ -25,7 +25,7 @@
 &lt;p>&#xD;
     A cada nova liberação de versão do sistema, o &lt;a class=&quot;elementLink&quot;&#xD;
     href=&quot;./../../processo_agile/roles/time_desenvolvimento_837780B8.html&quot; guid=&quot;_VUDXwE0eEeeZC78fRt21fQ&quot;>Time de&#xD;
-    Desenvolvimento&lt;/a> deve atualizar os itens de configuração no&amp;nbsp;&lt;a class=&quot;elementLink&quot;&#xD;
+    Desenvolvimento&lt;/a> deve atualizar as versões das dependências no&amp;nbsp;&lt;a class=&quot;elementLink&quot;&#xD;
     href=&quot;./../../processo_agile/workproducts/template_readme_E3B1B4C2.html&quot; guid=&quot;_InQSkO51Ee2xivWxnJFDIw&quot;>Template&#xD;
     README&lt;/a>&amp;nbsp;para que estejam de acordo com as versões de cada uma&amp;nbsp;utilizadas nesta nova versão do sistema.&#xD;
 &lt;/p></sectionDescription>
@@ -55,9 +55,9 @@
 &lt;p>&#xD;
     A cada nova liberação do sistema, o &lt;a class=&quot;elementLink&quot;&#xD;
     href=&quot;./../../processo_agile/roles/time_desenvolvimento_837780B8.html&quot; guid=&quot;_VUDXwE0eEeeZC78fRt21fQ&quot;>Time de&#xD;
-    Desenvolvimento&lt;/a>&amp;nbsp;deve gerar um arquivo de release notes, podendo utilizar o seguinte &lt;a&#xD;
+    Desenvolvimento&lt;/a>&amp;nbsp;deve gerar um arquivo de release notes, podendo utilizar a documentação no seguinte &lt;a&#xD;
     href=&quot;https://docs.github.com/pt/repositories/releasing-projects-on-github/automatically-generated-release-notes&quot;&#xD;
-    target=&quot;_blank&quot;>projeto&lt;/a>&amp;nbsp;ou o&amp;nbsp;&lt;a class=&quot;elementLink&quot;&#xD;
+    target=&quot;_blank&quot;>link&lt;/a>&amp;nbsp;ou o&amp;nbsp;&lt;a class=&quot;elementLink&quot;&#xD;
     href=&quot;./../../processo_agile/workproducts/template_release_notes_C9FA2D7.html&quot; guid=&quot;_RnztEO51Ee2xivWxnJFDIw&quot;>Template&#xD;
     Release Notes&lt;/a>.&#xD;
 &lt;/p></sectionDescription>
