@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-P-_CmNcm3TT1UsQQC9ji4Q" name=",_zgEgMA3_EeWY3eZySvU8_A" guid="-P-_CmNcm3TT1UsQQC9ji4Q">
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-P-_CmNcm3TT1UsQQC9ji4Q" name=",_zgEgMA3_EeWY3eZySvU8_A" guid="-P-_CmNcm3TT1UsQQC9ji4Q" changeDate="2023-05-23T06:49:12.110-0300">
+  <mainDescription>&lt;p>&#xD;
+    Tendo definidos os testes, é imprescindível anotar os resultados obtidos no Roteiro de Teste. Uma forma de automatizar&#xD;
+    e compartilhar as informações com a equipe é através de softwares de HelpDesk, que ajudam na validação de features em&#xD;
+    softwares de várias maneiras, dependendo das funcionalidades que oferecem. Existem diversas ferramentas de HelpDesk que&#xD;
+    podem ajudar a automatizar o processo de passagem dos roteirros de teste para cada Backlog de sprint de forma simples e&#xD;
+    gratuita, como por exemplo o Trello, que recomendamos o uso.&#xD;
+&lt;/p></mainDescription>
   <sections xmi:id="_2C70MWcGEeelx-d4QgVk5A" name="Executar testes" guid="_2C70MWcGEeelx-d4QgVk5A">
     <sectionDescription>&lt;p>&#xD;
     De acordo com a abordagem escolhida o &lt;a class=&quot;elementLink&quot;&#xD;

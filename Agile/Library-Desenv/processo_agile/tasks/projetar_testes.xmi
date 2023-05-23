@@ -1,5 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-gIlOyZAUGDY8eDEUj1e9qg" name=",_9iOecA37EeWY3eZySvU8_A" guid="-gIlOyZAUGDY8eDEUj1e9qg">
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-gIlOyZAUGDY8eDEUj1e9qg" name=",_9iOecA37EeWY3eZySvU8_A" guid="-gIlOyZAUGDY8eDEUj1e9qg" changeDate="2023-05-23T06:42:17.062-0300">
+  <mainDescription>&lt;p>&#xD;
+    Para testes funcionais e não funcionais, o Desenvolvedor elabora o Roteiro de Testes baseado na Especificação de Caso&#xD;
+    de Uso. Nele, podem conter&amp;nbsp;diversos tipos de&amp;nbsp;testes, sendo os mais comuns:&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Testes Unitários: são testes automatizados que verificam o comportamento de uma única unidade de código, como uma&#xD;
+    função ou método.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Testes de Integração: são testes automatizados que verificam a integração entre diferentes componentes de um sistema,&#xD;
+    como módulos ou serviços. Esses testes podem ser escritos utilizando frameworks como o Selenium (interfaces gráficas),&#xD;
+    PyTest (Python), Cucumber (Ruby) e TestNG (Java).&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Também recomendamos a utilização de uma ferramenta de gerenciamento de testes, o TestLink. O TestLink é uma ferramenta&#xD;
+    open source, que sincroniza a especificação de requisitos e a especificação de teste juntos. É possível criar Casos de&#xD;
+    Teste de projeto e outros documentos usando a ferramenta. Com o TestLink é possível criar contas para vários usuários e&#xD;
+    atribuir diferentes funções de usuário. O administrador pode gerenciar a tarefa de atribuição de casos de teste. Ele&#xD;
+    suporta a execução automatizada e manual de casos de teste. Os testadores podem gerar Plano de Teste e Relatório de&#xD;
+    Teste em uma fração do tempo com esta ferramenta. Ele suporta relatórios de teste em vários formatos, como Excel, MS&#xD;
+    word e HTML. Além disso, o TestLink também suporta a integração com muitas ferramentas de rastreamento de defeitos do&#xD;
+    sistema como Jira, Mantis, Bugzilla, TRAC etc. Como é uma ferramenta baseada na web, vários usuários podem acessar sua&#xD;
+    funcionalidade ao mesmo tempo com suas credenciais e funções atribuídas.&#xD;
+&lt;/p></mainDescription>
   <sections xmi:id="_xeVnomcGEeelx-d4QgVk5A" name="Projetar testes" guid="_xeVnomcGEeelx-d4QgVk5A">
     <sectionDescription>&lt;p>&#xD;
     Para testes &lt;strong>funcionais e não funcionais&lt;/strong>, o &lt;a class=&quot;elementLink&quot; href=&quot;./../../processo_agile/roles/desenvolvedor_137361E8.html&quot; guid=&quot;_jg34QE0dEeeZC78fRt21fQ&quot;>Desenvolvedor&lt;/a>&#xD;
