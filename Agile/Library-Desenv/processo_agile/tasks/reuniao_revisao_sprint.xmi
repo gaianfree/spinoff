@@ -31,6 +31,16 @@ style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; 
     &lt;/li>&#xD;
 &lt;/ul></sectionDescription>
   </sections>
+  <sections xmi:id="_oeHrQPmeEe2kuN69Te_gYw" name="Revisar as não conformidades" guid="_oeHrQPmeEe2kuN69Te_gYw">
+    <sectionDescription>&lt;p>&#xD;
+    Essa etapa da &lt;strong>reunião&amp;nbsp;de revisão do sprint&lt;/strong> sera responsável por manter o&#xD;
+    &lt;strong>rastreamento&lt;/strong> das não conformidades.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Nessa reunião deverá ser relatada cada alteração feita em cada ponto do relatórios de não conformidades, e a partir&#xD;
+    dessas discussões, devem se surgir &lt;em>insights&lt;/em> para se incluir nos próprios&amp;nbsp;relatórios.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
   <sections xmi:id="_fUrMkMKzEeq0I7bZu2e3JA" name="Revisar o processo" guid="_fUrMkMKzEeq0I7bZu2e3JA">
     <sectionDescription>&lt;p>&#xD;
     &lt;span&#xD;
