@@ -483,7 +483,7 @@
             <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_rWqcIPSwEe2Zcq5OPQAK4w" name="documento_de_requisitos" guid="_rWqcIPSwEe2Zcq5OPQAK4w" presentationName="Documento de Requisitos" briefDescription="Documentação de todas as necessidades e objetivos do Cliente, Casos de Uso, Cenários e todos os requisitos funcionais e não-funcionais necessários, de forma que possam ser classificados e analizados." templates="_rt9XQPSvEe2Zcq5OPQAK4w">
               <methodElementProperty xmi:id="_Kb_8cPSxEe2Zcq5OPQAK4w" name="me_edited" value="true"/>
             </contentElements>
-            <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_BUN6wPcxEe2G_rdTDHDH1A" name="gerenciar_requisitos" guid="_BUN6wPcxEe2G_rdTDHDH1A" presentationName="Gerenciar Requisitos" briefDescription="Essa tarefa envolve identificar, documentar, rastrear e controlar as necessidades dos usuários finais em relação ao software. É garantir que as expectativas sejam claramente capturadas, priorizadas e rastreadas ao longo do projeto para garantir o desenvolvimento de um software que atenda aos requisitos definidos." performedBy="_Zj1nYE0dEeeZC78fRt21fQ" output="_tl0WIPczEe2G_rdTDHDH1A" additionallyPerformedBy="_jg34QE0dEeeZC78fRt21fQ _VUDXwE0eEeeZC78fRt21fQ">
+            <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_BUN6wPcxEe2G_rdTDHDH1A" name="gerenciar_requisitos" guid="_BUN6wPcxEe2G_rdTDHDH1A" presentationName="Gerenciar Requisitos" briefDescription="Essa tarefa envolve identificar, documentar, rastrear e controlar as necessidades dos usuários finais em relação ao software. É garantir que as expectativas sejam claramente capturadas, priorizadas e rastreadas ao longo do projeto para garantir o desenvolvimento de um software que atenda aos requisitos definidos." guidelines="_HMnlYPpOEe2dV7MGnrKRBg _KrDbIPpOEe2dV7MGnrKRBg" performedBy="_Zj1nYE0dEeeZC78fRt21fQ" output="_tl0WIPczEe2G_rdTDHDH1A" additionallyPerformedBy="_jg34QE0dEeeZC78fRt21fQ _VUDXwE0eEeeZC78fRt21fQ">
               <methodElementProperty xmi:id="_7EL_wPczEe2G_rdTDHDH1A" name="me_edited" value="true"/>
               <presentation xmi:id="-R1_dF13zvd-f_RJmjwQJLQ" href="uma://-R1_dF13zvd-f_RJmjwQJLQ#-R1_dF13zvd-f_RJmjwQJLQ"/>
             </contentElements>
@@ -497,6 +497,13 @@
             <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_BS62EPc4Ee2G_rdTDHDH1A" name="template_gerenciamento_de_requisitos" guid="_BS62EPc4Ee2G_rdTDHDH1A" presentationName="Template - Gerenciamento de Requisitos">
               <methodElementProperty xmi:id="_V2SzgPc4Ee2G_rdTDHDH1A" name="me_edited" value="true"/>
               <presentation xmi:id="-jqzGmTJC__o3_KbZXKJrzQ" href="uma://-jqzGmTJC__o3_KbZXKJrzQ#-jqzGmTJC__o3_KbZXKJrzQ"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_8EDK8PpMEe2dV7MGnrKRBg" name="new_guideline" guid="_8EDK8PpMEe2dV7MGnrKRBg" presentationName="New Guideline"/>
+            <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_HMnlYPpOEe2dV7MGnrKRBg" name="guia_gerenciamento_requisitos_cmmi" guid="_HMnlYPpOEe2dV7MGnrKRBg" presentationName="Guia gerenciamento requisitos cmmi">
+              <methodElementProperty xmi:id="_JN6uwPpOEe2dV7MGnrKRBg" name="me_edited" value="true"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_KrDbIPpOEe2dV7MGnrKRBg" name="guia_rastreamento_de_requisitos" guid="_KrDbIPpOEe2dV7MGnrKRBg" presentationName="Guia Ratreamento de requisitos">
+              <methodElementProperty xmi:id="_OPUzIPpOEe2dV7MGnrKRBg" name="me_edited" value="true"/>
             </contentElements>
           </childPackages>
           <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_qjTuUE0fEeeZC78fRt21fQ" name="teste" guid="_qjTuUE0fEeeZC78fRt21fQ" presentationName="Teste" briefDescription="Disciplina de teste, verificação e validação do que foi implementado em relação aos requisitos definidos.">
