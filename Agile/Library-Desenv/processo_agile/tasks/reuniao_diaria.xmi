@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-7sJfpoGLleCyQlPktz3cNA" name=",_-ArjQGfJEee98KTxJdQ4aA" guid="-7sJfpoGLleCyQlPktz3cNA" changeDate="2019-12-02T11:58:46.024-0200">
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-7sJfpoGLleCyQlPktz3cNA" name=",_-ArjQGfJEee98KTxJdQ4aA" guid="-7sJfpoGLleCyQlPktz3cNA" changeDate="2023-05-22T22:10:38.741-0300">
   <mainDescription>&lt;p&#xD;
 style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: normal; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
     Todos os dias do Sprint, o &lt;strong>&lt;a class=&quot;elementLink&quot;&#xD;
@@ -17,9 +17,10 @@ style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; 
 &lt;/p>&#xD;
 &lt;p&#xD;
 style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: normal; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
-    A Reunião Diária não é uma reunião usada para solucionar problemas ou dúvidas. As dúvidas que surgirem deverão ser&#xD;
-    postergadas e, de modo geral, serem tratadas pelo grupo envolvido imediatamente após a reunião. Durante a reunião, cada&#xD;
-    membro do Time responde às seguintes perguntas:&#xD;
+    A Reunião Diária não é uma reunião usada para solucionar problemas ou dúvidas. Nela,&amp;nbsp;todos os&#xD;
+    envolvidos&amp;nbsp;visualizam o Quadro de tarefas&amp;nbsp;As dúvidas que surgirem deverão ser postergadas e, de modo geral,&#xD;
+    serem tratadas pelo grupo envolvido imediatamente após a reunião. Durante a reunião, cada membro do Time responde às&#xD;
+    seguintes perguntas:&#xD;
 &lt;/p>&#xD;
 &lt;p&#xD;
 style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: normal; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;

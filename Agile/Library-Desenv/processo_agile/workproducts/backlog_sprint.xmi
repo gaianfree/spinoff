@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-x0TomwdcumNdkVZn-rxV7Q" name="new_artifact,_GfkJgGZpEee1huV63HakZg" guid="-x0TomwdcumNdkVZn-rxV7Q" changeDate="2017-07-11T15:50:32.704-0300">
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-x0TomwdcumNdkVZn-rxV7Q" name="new_artifact,_GfkJgGZpEee1huV63HakZg" guid="-x0TomwdcumNdkVZn-rxV7Q" changeDate="2023-05-10T18:41:21.669-0300">
   <mainDescription>&lt;p>&#xD;
     Itens do Backlog de Sprint são tirados do Backlog de Produto, pelo time, baseado na prioridade definida e a percepção&#xD;
     do time do tempo que será necessário para finalizar as várias funcionalidades.&#xD;
@@ -13,10 +13,9 @@
     finalizadas e quanto tempo o time acha que levará para completar as que ainda não estão. A estimativa de trabalho&#xD;
     restante no Sprint é calculada diariamente e representado graficamente, resultando em um Sprint Burndown Chart.&#xD;
     (&quot;Refatorar a classe Login para disparar uma exceção&quot;) ou mais focado no usuário (&quot;Permitir voltar na tela de&#xD;
-    instalação&quot;). Uma perpectiva muito interessante é descrever os itens do Backlog de Produto como &quot;User Stories&quot; do&#xD;
-    Extreme Programming.&#xD;
+    instalação&quot;).&#xD;
 &lt;/p>&#xD;
 &lt;p>&#xD;
-    O Backlog de Produto é mantido&amp;nbsp;na planilha Planejamento de Controle do Projeto.&#xD;
+    O Backlog de Produto é mantido&amp;nbsp;nos quadros do Trello.&#xD;
 &lt;/p></mainDescription>
 </org.eclipse.epf.uma:ArtifactDescription>

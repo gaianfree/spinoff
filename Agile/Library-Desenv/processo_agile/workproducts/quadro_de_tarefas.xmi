@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-DaASmPusKD66KVsLG7GlXg" name="new_artifact,_ycf8APkGEe2YgeX95t4-Ig" guid="-DaASmPusKD66KVsLG7GlXg" changeDate="2023-05-22T22:14:00.207-0300">
+  <mainDescription>&lt;p>&#xD;
+    O Quadro de Tarefas é aonde todo o andamento das tarefas são monitorados e controlados no projeto. É utilizado o&#xD;
+    software Trello para essa ferramenta. Consulte o &amp;nbsp;&lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../processo_agile/guidances/examples/guia_trello_4F4BAD34.html&quot; guid=&quot;_GijUYO98Ee2QCscpOTJnSA&quot;>Guia - Trello&#xD;
+    para Monitoramento e Controle do Projeto&lt;/a>&amp;nbsp;para configura-lo corretamente.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    O Scrum Master é responsável em manter&amp;nbsp;o&amp;nbsp;quadro atualizado e dar conhecimento dos dados de gestão a todos os&#xD;
+    envolvidos no projeto perioricamente.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>

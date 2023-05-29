@@ -110,8 +110,10 @@ style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; 
   <sections xmi:id="_ueL4EBUJEeqXs563M0S9KA" name="Criar o plano de entregas" guid="_ueL4EBUJEeqXs563M0S9KA">
     <sectionDescription>&lt;p&#xD;
 style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: normal; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
-    Neste momento&amp;nbsp;o time de desenvolvimento deverá criar um &lt;strong>plano de entregas&lt;/strong> (uma aba da Planilha de&#xD;
-    Planejamento e Controle do Projeto) em alto nível contendo o que será entregue ao final de cada Sprint.&#xD;
+    Neste momento&amp;nbsp;o time de desenvolvimento deverá criar um quadro de tarefas seguindo o&amp;nbsp;&lt;strong>&lt;a&#xD;
+    class=&quot;elementLink&quot; href=&quot;./../../processo_agile/guidances/examples/guia_trello_4F4BAD34.html&quot;&#xD;
+    guid=&quot;_GijUYO98Ee2QCscpOTJnSA&quot;>Guia - Trello para Monitoramento e Controle do Projeto&lt;/a>&lt;/strong> em alto nível&#xD;
+    contendo o que será entregue ao final de cada Sprint.&#xD;
 &lt;/p>&#xD;
 &lt;p&#xD;
 style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: normal; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
@@ -123,13 +125,18 @@ style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; 
   </sections>
   <sections xmi:id="_ckJbsGfBEee98KTxJdQ4aA" name="Aprovar o Plano do Projeto" guid="_ckJbsGfBEee98KTxJdQ4aA">
     <sectionDescription>&lt;p>&#xD;
-    Uma vez que o &lt;strong>Plano do Projeto&lt;/strong> (&lt;a class=&quot;elementLink&quot;&#xD;
-    href=&quot;./../../processo_agile/workproducts/planilha_pcp_EFCEC02C.html&quot; guid=&quot;_U0xmcGZnEee1huV63HakZg&quot;>Planilha de&#xD;
-    Planejamento e Controle do Projeto&lt;/a>) estão prontos, o &lt;strong>&lt;a class=&quot;elementLink&quot;&#xD;
-    href=&quot;./../../processo_agile/roles/scrum_master_BEC8226F.html&quot; guid=&quot;_Zj1nYE0dEeeZC78fRt21fQ&quot;>Scrum Master&lt;/a>&lt;/strong>&#xD;
-    marca uma reunião com o cliente e/ou &lt;strong>&lt;a class=&quot;elementLink&quot;&#xD;
-    href=&quot;./../../processo_agile/roles/product_owner_D4B73F24.html&quot; guid=&quot;_0sP_IE0dEeeZC78fRt21fQ&quot;>Product Owner&#xD;
-    (PO)&lt;/a>&lt;/strong> para apresentar o plano e obter sua aprovação.&#xD;
+    Uma vez que o &lt;strong>Plano do Projeto&lt;/strong> (&lt;a&#xD;
+    id=&quot;A_-_-_C:/Users/Everymind/Downloads/spinoff/Agile/Library-Desenv/processo_agile/workproducts/planilha_pcp_EFCEC02C.html:.:.:&quot;&#xD;
+     class=&quot;elementLink&quot; href=&quot;./../../processo_agile/workproducts/planilha_pcp_EFCEC02C.html&quot;&#xD;
+    guid=&quot;_U0xmcGZnEee1huV63HakZg&quot;>Planilha de Planejamento e Controle do Projeto&lt;/a>&amp;nbsp;e &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../processo_agile/workproducts/quadro_de_tarefas_7B46EBE2.html&quot; guid=&quot;_ycf8APkGEe2YgeX95t4-Ig&quot;>Quadro de&#xD;
+    Tarefas&lt;/a>) estão prontos, o &lt;strong>&lt;a&#xD;
+    id=&quot;A_-_-_C:/Users/Everymind/Downloads/spinoff/Agile/Library-Desenv/processo_agile/roles/scrum_master_BEC8226F.html:.:.:&quot;&#xD;
+     class=&quot;elementLink&quot; href=&quot;./../../processo_agile/roles/scrum_master_BEC8226F.html&quot;&#xD;
+    guid=&quot;_Zj1nYE0dEeeZC78fRt21fQ&quot;>Scrum Master&lt;/a>&lt;/strong> marca uma reunião com o cliente e/ou &lt;strong>&lt;a&#xD;
+    id=&quot;A_-_-_C:/Users/Everymind/Downloads/spinoff/Agile/Library-Desenv/processo_agile/roles/product_owner_D4B73F24.html:.:.:&quot;&#xD;
+     class=&quot;elementLink&quot; href=&quot;./../../processo_agile/roles/product_owner_D4B73F24.html&quot;&#xD;
+    guid=&quot;_0sP_IE0dEeeZC78fRt21fQ&quot;>Product Owner (PO)&lt;/a>&lt;/strong> para apresentar o plano e obter sua aprovação.&#xD;
 &lt;/p>&#xD;
 &lt;p>&#xD;
     Somente após a aprovação, marco do primeiro Sprint,&amp;nbsp;é que se pode iniciar o desenvolvimento propriamente dito.&#xD;

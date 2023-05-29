@@ -79,6 +79,8 @@
     <resourceDescriptors xmi:id="_TgprcMLgEeqz5tEf5BYCAA" id="-pBwKq_YSj2jInD_fuc7leA" uri="guidances/examples/guia_kanban_scrum.xmi"/>
     <resourceDescriptors xmi:id="_yCD24OhREeqpRpaT9ayfbA" id="-B8hFfug1nzF0gQJA1Yz7ng" uri="guidances/templates/template_caso_de_desenvolvimento.xmi"/>
     <resourceDescriptors xmi:id="_nPFDMOhWEeqpRpaT9ayfbA" id="-dsncKOA_4CFeRD_w4ZIsng" uri="guidances/templates/template_historia_de_usuario.xmi"/>
+    <resourceDescriptors xmi:id="_HbPv8PSrEe2c16xAF7pkwg" id="-Z9n-5vwsRhBtnyDoP4OydA" uri="guidances/examples/guia_trello.xmi"/>
+    <resourceDescriptors xmi:id="_Zyp7oPkKEe2YgeX95t4-Ig" id="-DaASmPusKD66KVsLG7GlXg" uri="workproducts/quadro_de_tarefas.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:MethodPlugin xmi:id="_p8a8ME0ZEeeZC78fRt21fQ" name="processo_agile" guid="_p8a8ME0ZEeeZC78fRt21fQ" presentationName="Processo Agil ADS" briefDescription="Processo customizado para o curso de ADS, baseado em práticas de métodos ágeis." authors="Edson Murakami" changeDate="2017-06-09T10:45:57.957-0300" version="1.0">
     <methodElementProperty xmi:id="_p9ZzoE0ZEeeZC78fRt21fQ" name="plugin_synFree" value="true"/>
@@ -211,7 +213,7 @@
             <methodElementProperty xmi:id="_ew1m8GZnEee1huV63HakZg" name="me_edited" value="true"/>
             <presentation xmi:id="-3MyKmkZj3qeMxeHs0YVqCQ" href="uma://-3MyKmkZj3qeMxeHs0YVqCQ#-3MyKmkZj3qeMxeHs0YVqCQ"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_e_Ef8GZWEee1huV63HakZg" name="reuniao_planejamento_projeto" guid="_e_Ef8GZWEee1huV63HakZg" presentationName="Reunião de Planejamento do Projeto" briefDescription="A reunião de planejamento tem a finalidade de planejar o a execução do projeto e criar insumos para monitoramento e controle do projeto." guidelines="_q0JkQI40EeqPTOk8qo7S2Q _St8QALZGEeqfZPEi8_DfSQ" examples="_1CfX4GfXEee98KTxJdQ4aA _QDMZYGe9Eee98KTxJdQ4aA _YkMKEGe9Eee98KTxJdQ4aA _2Z4JkMLfEeqz5tEf5BYCAA" performedBy="_Zj1nYE0dEeeZC78fRt21fQ" mandatoryInput="_cWdAoGaSEeeSdMzcHvBvqg _XenvAGaSEeeSdMzcHvBvqg _4myakGcSEeelx-d4QgVk5A" output="_U0xmcGZnEee1huV63HakZg _4myakGcSEeelx-d4QgVk5A _7UTzAGZdEee1huV63HakZg _RgU6wHH6EeeNG_oM-1Xh7g" additionallyPerformedBy="_0sP_IE0dEeeZC78fRt21fQ _VUDXwE0eEeeZC78fRt21fQ">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_e_Ef8GZWEee1huV63HakZg" name="reuniao_planejamento_projeto" guid="_e_Ef8GZWEee1huV63HakZg" presentationName="Reunião de Planejamento do Projeto" briefDescription="A reunião de planejamento tem a finalidade de planejar o a execução do projeto e criar insumos para monitoramento e controle do projeto." guidelines="_q0JkQI40EeqPTOk8qo7S2Q _St8QALZGEeqfZPEi8_DfSQ" examples="_1CfX4GfXEee98KTxJdQ4aA _QDMZYGe9Eee98KTxJdQ4aA _YkMKEGe9Eee98KTxJdQ4aA _2Z4JkMLfEeqz5tEf5BYCAA _GijUYO98Ee2QCscpOTJnSA" performedBy="_Zj1nYE0dEeeZC78fRt21fQ" mandatoryInput="_cWdAoGaSEeeSdMzcHvBvqg _XenvAGaSEeeSdMzcHvBvqg _4myakGcSEeelx-d4QgVk5A" output="_U0xmcGZnEee1huV63HakZg _4myakGcSEeelx-d4QgVk5A _7UTzAGZdEee1huV63HakZg _RgU6wHH6EeeNG_oM-1Xh7g" additionallyPerformedBy="_0sP_IE0dEeeZC78fRt21fQ _VUDXwE0eEeeZC78fRt21fQ">
             <methodElementProperty xmi:id="_sFWZsGZWEee1huV63HakZg" name="me_edited" value="true"/>
             <presentation xmi:id="-SiIH0fz_VmUeTbRCtLlohg" href="uma://-SiIH0fz_VmUeTbRCtLlohg#-SiIH0fz_VmUeTbRCtLlohg"/>
           </contentElements>
@@ -226,7 +228,7 @@
             <methodElementProperty xmi:id="_d9IksGe9Eee98KTxJdQ4aA" name="me_edited" value="true"/>
             <presentation xmi:id="-_QZe43aTGw5Ub2pazSfiDw" href="uma://-_QZe43aTGw5Ub2pazSfiDw#-_QZe43aTGw5Ub2pazSfiDw"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_pq290GfCEee98KTxJdQ4aA" name="reuniao_planejamento_sprint" guid="_pq290GfCEee98KTxJdQ4aA" presentationName="Reunião de Planejamento do Sprint (Sprint Planning Meeting)" briefDescription="A reunião de Planejamento do Sprint é onde o Time e o Owner determinam quais funcionalidades e atividades serão realizadas no próximo Sprint." examples="_QDMZYGe9Eee98KTxJdQ4aA _YkMKEGe9Eee98KTxJdQ4aA" performedBy="_0sP_IE0dEeeZC78fRt21fQ _Zj1nYE0dEeeZC78fRt21fQ _VUDXwE0eEeeZC78fRt21fQ" mandatoryInput="_7UTzAGZdEee1huV63HakZg _U0xmcGZnEee1huV63HakZg" output="_GfkJgGZpEee1huV63HakZg _SHQv8GZqEee1huV63HakZg _U0xmcGZnEee1huV63HakZg">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_pq290GfCEee98KTxJdQ4aA" name="reuniao_planejamento_sprint" guid="_pq290GfCEee98KTxJdQ4aA" presentationName="Reunião de Planejamento do Sprint (Sprint Planning Meeting)" briefDescription="A reunião de Planejamento do Sprint é onde o Time e o Owner determinam quais funcionalidades e atividades serão realizadas no próximo Sprint." examples="_QDMZYGe9Eee98KTxJdQ4aA _YkMKEGe9Eee98KTxJdQ4aA" performedBy="_0sP_IE0dEeeZC78fRt21fQ _Zj1nYE0dEeeZC78fRt21fQ _VUDXwE0eEeeZC78fRt21fQ" mandatoryInput="_7UTzAGZdEee1huV63HakZg _U0xmcGZnEee1huV63HakZg _SHQv8GZqEee1huV63HakZg" output="_GfkJgGZpEee1huV63HakZg _SHQv8GZqEee1huV63HakZg _U0xmcGZnEee1huV63HakZg">
             <methodElementProperty xmi:id="_20-1wGfCEee98KTxJdQ4aA" name="me_edited" value="true"/>
             <presentation xmi:id="-bhl5FMevI0hHX_TjDVLXkQ" href="uma://-bhl5FMevI0hHX_TjDVLXkQ#-bhl5FMevI0hHX_TjDVLXkQ"/>
           </contentElements>
@@ -284,11 +286,19 @@
             <methodElementProperty xmi:id="_yCAzkOhREeqpRpaT9ayfbA" name="me_edited" value="true"/>
             <presentation xmi:id="-B8hFfug1nzF0gQJA1Yz7ng" href="uma://-B8hFfug1nzF0gQJA1Yz7ng#-B8hFfug1nzF0gQJA1Yz7ng"/>
           </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Example" xmi:id="_GijUYO98Ee2QCscpOTJnSA" name="guia_trello" guid="_GijUYO98Ee2QCscpOTJnSA" presentationName="Guia - Trello para Monitoramento e Controle do Projeto" briefDescription="Plataforma utilizada para monitorar demandas e andamento da Sprint.">
+            <methodElementProperty xmi:id="_ucPJwO99Ee2QCscpOTJnSA" name="me_edited" value="true"/>
+            <presentation xmi:id="-Z9n-5vwsRhBtnyDoP4OydA" href="uma://-Z9n-5vwsRhBtnyDoP4OydA#-Z9n-5vwsRhBtnyDoP4OydA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_ycf8APkGEe2YgeX95t4-Ig" name="quadro_de_tarefas" guid="_ycf8APkGEe2YgeX95t4-Ig" presentationName="Quadro de Tarefas" briefDescription="Quadro de Tarefas - Trello">
+            <methodElementProperty xmi:id="_ZymRQPkKEe2YgeX95t4-Ig" name="me_edited" value="true"/>
+            <presentation xmi:id="-DaASmPusKD66KVsLG7GlXg" href="uma://-DaASmPusKD66KVsLG7GlXg#-DaASmPusKD66KVsLG7GlXg"/>
+          </contentElements>
         </childPackages>
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_R5NWoE0gEeeZC78fRt21fQ" name="gestao_configuracao" guid="_R5NWoE0gEeeZC78fRt21fQ" presentationName="Gestão de Configuração e Mudanças" briefDescription="Disciplina de Gestão de Configuração e Mudanças, responsável pela organização e integridade dos produtos de trabalho produzidos ao longo do desenvolvimento e pelo controle das mudanças.">
           <methodElementProperty xmi:id="_R5NWoU0gEeeZC78fRt21fQ" name="pkg_loadCheck" value="true"/>
           <methodElementProperty xmi:id="_oGpCIE0gEeeZC78fRt21fQ" name="me_edited" value="true"/>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_NHZfQGcQEeelx-d4QgVk5A" name="controlar_itens_configuracao" guid="_NHZfQGcQEeelx-d4QgVk5A" presentationName="Controlar Itens de Configuração (IC)" briefDescription="Itens de configuração são todos os artefatos produzidos durante o projeto que devem compor uma configuração base, portanto devem ser controladas suas versões." guidelines="_kivfQKdcEeq1ProniyDKWg" examples="_SLKUEGcQEeelx-d4QgVk5A _SLKUEmcQEeelx-d4QgVk5A" performedBy="_jg34QE0dEeeZC78fRt21fQ" output="_U0xmcGZnEee1huV63HakZg" toolMentors="_cZf1IKc5EeqVVcbyjZLpiA">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_NHZfQGcQEeelx-d4QgVk5A" name="controlar_itens_configuracao" guid="_NHZfQGcQEeelx-d4QgVk5A" presentationName="Controlar Itens de Configuração (IC)" briefDescription="Itens de configuração são todos os artefatos produzidos durante o projeto que devem compor uma configuração base, portanto devem ser controladas suas versões." guidelines="_kivfQKdcEeq1ProniyDKWg" examples="_SLKUEGcQEeelx-d4QgVk5A _SLKUEmcQEeelx-d4QgVk5A" performedBy="_jg34QE0dEeeZC78fRt21fQ" output="_ycf8APkGEe2YgeX95t4-Ig" toolMentors="_cZf1IKc5EeqVVcbyjZLpiA">
             <methodElementProperty xmi:id="_NTKqYGcQEeelx-d4QgVk5A" name="me_edited" value="true"/>
             <presentation xmi:id="-6-unkCM7z8sv9ExA0HgTVw" href="uma://-6-unkCM7z8sv9ExA0HgTVw#-6-unkCM7z8sv9ExA0HgTVw"/>
           </contentElements>
