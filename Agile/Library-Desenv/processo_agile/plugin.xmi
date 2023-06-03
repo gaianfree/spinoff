@@ -79,8 +79,8 @@
     <resourceDescriptors xmi:id="_TgprcMLgEeqz5tEf5BYCAA" id="-pBwKq_YSj2jInD_fuc7leA" uri="guidances/examples/guia_kanban_scrum.xmi"/>
     <resourceDescriptors xmi:id="_yCD24OhREeqpRpaT9ayfbA" id="-B8hFfug1nzF0gQJA1Yz7ng" uri="guidances/templates/template_caso_de_desenvolvimento.xmi"/>
     <resourceDescriptors xmi:id="_nPFDMOhWEeqpRpaT9ayfbA" id="-dsncKOA_4CFeRD_w4ZIsng" uri="guidances/templates/template_historia_de_usuario.xmi"/>
-    <resourceDescriptors xmi:id="_2JaFEPkmEe2iu-K_qljV3Q" id="-lwOyxQI3onrs05-phvEqmQ" uri="guidances/examples/guia-pair_programming.xmi"/>
     <resourceDescriptors xmi:id="_s2JacPmpEe2ntf91x-tt9g" id="-p7b7wDhr_lPSDFaZfgiZRg" uri="guidances/guidelines/guia_cots.xmi"/>
+    <resourceDescriptors xmi:id="_zTH-gAG4Ee60qqHpuddYbA" id="-vZjawhqggSyZY_b8jGU_Yg" uri="guidances/guidelines/guia-pair_programming.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:MethodPlugin xmi:id="_p8a8ME0ZEeeZC78fRt21fQ" name="processo_agile" guid="_p8a8ME0ZEeeZC78fRt21fQ" presentationName="Processo Agil ADS" briefDescription="Processo customizado para o curso de ADS, baseado em práticas de métodos ágeis." authors="Edson Murakami" changeDate="2017-06-09T10:45:57.957-0300" version="1.0">
     <methodElementProperty xmi:id="_p9ZzoE0ZEeeZC78fRt21fQ" name="plugin_synFree" value="true"/>
@@ -339,7 +339,7 @@
           <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_eoKyAE0fEeeZC78fRt21fQ" name="implementacao" guid="_eoKyAE0fEeeZC78fRt21fQ" presentationName="Implementação" briefDescription="Disciplina de Implementação, codificação da solução técnica, conforme a arquitetura definida.">
             <methodElementProperty xmi:id="_eoKyAU0fEeeZC78fRt21fQ" name="pkg_loadCheck" value="true"/>
             <methodElementProperty xmi:id="_nWz9IE0fEeeZC78fRt21fQ" name="me_edited" value="true"/>
-            <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_TkxF8Gb9Eeelx-d4QgVk5A" name="desenvolver_solucao" guid="_TkxF8Gb9Eeelx-d4QgVk5A" presentationName="Desenvolver Solução" briefDescription="Desenvolver Solução consiste na análise, design, codificação e testes unitários da solução dada, conforme arquitetura definida e testada." examples="_RopCYGb7Eeelx-d4QgVk5A _7tCiMGcEEeelx-d4QgVk5A _B_bGQPkmEe2iu-K_qljV3Q" performedBy="_jg34QE0dEeeZC78fRt21fQ" mandatoryInput="_PAGkwGb5Eeelx-d4QgVk5A _vlXKQGb6Eeelx-d4QgVk5A _9UCO0Gb8Eeelx-d4QgVk5A _hjKj0GaXEeeSdMzcHvBvqg" output="_2zmjgGcDEeelx-d4QgVk5A" toolMentors="_aI9gcKc6EeqVVcbyjZLpiA _8HJT4JwZEeiAhriidM4ivw">
+            <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_TkxF8Gb9Eeelx-d4QgVk5A" name="desenvolver_solucao" guid="_TkxF8Gb9Eeelx-d4QgVk5A" presentationName="Desenvolver Solução" briefDescription="Desenvolver Solução consiste na análise, design, codificação e testes unitários da solução dada, conforme arquitetura definida e testada." examples="_RopCYGb7Eeelx-d4QgVk5A _7tCiMGcEEeelx-d4QgVk5A" performedBy="_jg34QE0dEeeZC78fRt21fQ" mandatoryInput="_PAGkwGb5Eeelx-d4QgVk5A _vlXKQGb6Eeelx-d4QgVk5A _9UCO0Gb8Eeelx-d4QgVk5A _hjKj0GaXEeeSdMzcHvBvqg" output="_2zmjgGcDEeelx-d4QgVk5A" toolMentors="_aI9gcKc6EeqVVcbyjZLpiA _8HJT4JwZEeiAhriidM4ivw">
               <methodElementProperty xmi:id="_Tu7HgGb9Eeelx-d4QgVk5A" name="me_edited" value="true"/>
               <presentation xmi:id="-f3yqiDOhk0TUCvst3dFqYQ" href="uma://-f3yqiDOhk0TUCvst3dFqYQ#-f3yqiDOhk0TUCvst3dFqYQ"/>
             </contentElements>
@@ -350,11 +350,10 @@
               <methodElementProperty xmi:id="_n4FGYKc7EeqVVcbyjZLpiA" name="me_edited" value="true"/>
               <presentation xmi:id="-LTYSrOb21utb6mnl8YjLmQ" href="uma://-LTYSrOb21utb6mnl8YjLmQ#-LTYSrOb21utb6mnl8YjLmQ"/>
             </contentElements>
-            <contentElements xsi:type="org.eclipse.epf.uma:Example" xmi:id="_B_bGQPkmEe2iu-K_qljV3Q" name="guia-pair_programming" guid="_B_bGQPkmEe2iu-K_qljV3Q" presentationName="Guia-Pair Programming">
-              <methodElementProperty xmi:id="_2JQUEPkmEe2iu-K_qljV3Q" name="me_edited" value="true"/>
-              <presentation xmi:id="-lwOyxQI3onrs05-phvEqmQ" href="uma://-lwOyxQI3onrs05-phvEqmQ#-lwOyxQI3onrs05-phvEqmQ"/>
+            <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_qw-W8PlXEe2ntf91x-tt9g" name="guia-pair_programming" guid="_qw-W8PlXEe2ntf91x-tt9g" presentationName="Guia-Pair_Programming" briefDescription="A programação em pares é uma prática em que dois programadores trabalham juntos para escrever um mesmo código. Ela tem como objetivo melhorar a qualidade do desenvolvimento, compartilhar conhecimento entre os membros da equipe, aumentar a produtividade e reduzir erros.">
+              <methodElementProperty xmi:id="_zS0cgAG4Ee60qqHpuddYbA" name="me_edited" value="true"/>
+              <presentation xmi:id="-vZjawhqggSyZY_b8jGU_Yg" href="uma://-vZjawhqggSyZY_b8jGU_Yg#-vZjawhqggSyZY_b8jGU_Yg"/>
             </contentElements>
-            <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_qw-W8PlXEe2ntf91x-tt9g" name="new_guideline" guid="_qw-W8PlXEe2ntf91x-tt9g" presentationName="New Guideline"/>
           </childPackages>
           <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_87whwE0eEeeZC78fRt21fQ" name="analise_design" guid="_87whwE0eEeeZC78fRt21fQ" presentationName="Arquitetura" briefDescription="Disciplina de arquitetura, análise e design da solução técnica">
             <methodElementProperty xmi:id="_87xI0E0eEeeZC78fRt21fQ" name="pkg_loadCheck" value="true"/>

@@ -23,10 +23,13 @@
     href=&quot;./../../processo_agile/workproducts/modelo_arquitetura_4779B597.html&quot; guid=&quot;_9UCO0Gb8Eeelx-d4QgVk5A&quot;>Modelo de&#xD;
     Arquitetura&lt;/a>&amp;nbsp;e &lt;a class=&quot;elementLink&quot;&#xD;
     href=&quot;./../../processo_agile/workproducts/guia_implementação_E3C99C55.html&quot; guid=&quot;_vlXKQGb6Eeelx-d4QgVk5A&quot;>Guia de&#xD;
-    Implementação&lt;/a> (documentos de padrões e&amp;nbsp;boas práticas de codificação), conforme estabelecido no processo do &lt;a&#xD;
-    class=&quot;elementLink&quot; href=&quot;./../../processo_agile/guidances/examples/guia-pair_programming_A56C0A6A.html&quot;&#xD;
-    guid=&quot;_B_bGQPkmEe2iu-K_qljV3Q&quot;>Guia-Pair Programming&lt;/a>&#xD;
-&lt;/p></sectionDescription>
+    Implementação&lt;/a> (documentos de padrões e&amp;nbsp;boas práticas de codificação).&#xD;
+&lt;/p>&#xD;
+&lt;br />&#xD;
+O desenvolvedor pode realizar a prática de programação em par, seguindo o &lt;a class=&quot;elementLink&quot;&#xD;
+href=&quot;./../../processo_agile/guidances/guidelines/new_guideline_ED7E34DC.html&quot;&#xD;
+guid=&quot;_qw-W8PlXEe2ntf91x-tt9g&quot;>Guia-Pair_Programming&lt;/a>, durante a implementação, compartilhando a codificação de uma&#xD;
+classe, método ou trecho de código entre dois programadores.</sectionDescription>
   </sections>
   <sections xmi:id="_TkxF82b9Eeelx-d4QgVk5A" name="Testar solução" guid="_TkxF82b9Eeelx-d4QgVk5A">
     <sectionDescription>&lt;p>&#xD;
